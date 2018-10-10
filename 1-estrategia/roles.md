@@ -1,6 +1,6 @@
 # Roles durante el plano de Estrategia
 
-Coordinación:
-Control: 
-Comunicación:
-Secretaría: 
+Coordinación:Estelle
+Control: Lisandro
+Comunicación:Megane
+Secretaría: Ange Lozano 

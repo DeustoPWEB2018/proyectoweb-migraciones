@@ -25,4 +25,7 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
+- Barret, Mégane
+- Roques, Estelle
 - Toledo, Lisandro
+- ...

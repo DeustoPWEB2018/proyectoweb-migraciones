@@ -27,4 +27,5 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 - Barret, Mégane
 - Roques, Estelle
+- Toledo, Lisandro
 - ...

@@ -1,5 +1,5 @@
 # Plano de estrategia
-
+dfhjdndm,mnvd
 ## Objetivos 
 
 ### Visión

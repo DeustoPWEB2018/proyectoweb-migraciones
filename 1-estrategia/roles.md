@@ -1,6 +1,6 @@
 # Roles durante el plano de Estrategia
 
-Coordinación:
-Control: 
-Comunicación:
-Secretaría: 
+Coordinación: Mégane BARRET
+Control: Lisandro TOLEDO
+Comunicación: Estelle ROQUES
+Secretaría: Angie LOZANO

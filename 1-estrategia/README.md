@@ -4,6 +4,8 @@ dfhjdndm,mnvd
 
 ### Visión
 
+Ser referentes número uno para todos los refugiados e inmigrantes forzados que llegan al País Vasco para que tengan una correcta inserción dentro de la comunidad.
+
 ### Circunstancias de uso
 
 ### Criterios de diseño

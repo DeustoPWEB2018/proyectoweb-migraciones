@@ -25,5 +25,12 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
+<<<<<<< HEAD
 - Lozano Granada, Angie
 - ...
+=======
+- Barret, Mégane
+- Roques, Estelle
+- Toledo, Lisandro
+- ...
+>>>>>>> d82bdf75f95b4cab14dbbe599b27954757ab3bad

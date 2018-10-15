@@ -2,7 +2,10 @@
 
 ## Objetivos 
 
+__PRODUCTO:__ Es una plataforma web informativa denominada *Nuevo País→  El Diario que te ayuda*,  consiste en ordenar la información relevante de  instituciones y organizaciones que trabajan para integrar a los migrantes forzados por cuestiones políticas, económicas, guerras (...). Eventualmente crearemos contenido que complemente lo anterior para cumplir los objetivos de este producto. 
+
 ### Visión
+
 __*¿Cuál es el propósito de mi producto?*__
 Queremos que nuestros usuarios ingresen con inquietudes y salgan con ellas resueltas, es decir, cuando el migrante llega a su lugar de destino se encuentra en lo que denominaremos el punto cero, sin alojamiento, alimentación, educación o atención sanitaria, y partiendo de ello nosotros como organización les brindaremos los pasos a seguir para que puedan incorporarse en el País Vasco.
 

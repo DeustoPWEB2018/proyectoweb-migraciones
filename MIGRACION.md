@@ -48,7 +48,7 @@ Queremos que Aupa sea un sitio web donde los migrantes puedan encontrar informac
 El producto está pensado como una línea de tiempo.
 Nos referimos a una secuencia de pasos que tiene como punto de partida el momento en que los inmigrantes llegan al País Vasco, desde ahí, se da inicio a una serie de pasos que al ser completados, puedan lograr una plena inserción dentro de la comunidad.
 
-(IMAGEN)
+(Falta IMAGEN)
 
 **¿Cuál es el propósito de mi producto?**
 Queremos que nuestros usuarios ingresen con inquietudes y salgan con ellas resueltas, es decir, cuando el migrante llega a su lugar de destino se encuentra en lo que denominaremos el punto cero, sin alojamiento, alimentación, educación o atención sanitaria, y partiendo de ello nosotros como organización les brindaremos los pasos a seguir para que puedan incorporarse en el País Vasco.

@@ -44,6 +44,12 @@ Ser referentes número uno para todos los refugiados e inmigrantes forzados que 
 **¿Cómo veo mi producto?**
 Queremos que Aupa sea un sitio web donde los migrantes puedan encontrar información útil para la acogida en el País Vasco, Además será una plataforma que les permita interactuar y contar sus experiencias al mismo tiempo que se van adaptando al entorno. 
 
+**¿Cómo quiero que sea el producto?**
+El producto está pensado como una línea de tiempo.
+Nos referimos a una secuencia de pasos que tiene como punto de partida el momento en que los inmigrantes llegan al País Vasco, desde ahí, se da inicio a una serie de pasos que al ser completados, puedan lograr una plena inserción dentro de la comunidad.
+
+(IMAGEN)
+
 **¿Cuál es el propósito de mi producto?**
 Queremos que nuestros usuarios ingresen con inquietudes y salgan con ellas resueltas, es decir, cuando el migrante llega a su lugar de destino se encuentra en lo que denominaremos el punto cero, sin alojamiento, alimentación, educación o atención sanitaria, y partiendo de ello nosotros como organización les brindaremos los pasos a seguir para que puedan incorporarse en el País Vasco.
 

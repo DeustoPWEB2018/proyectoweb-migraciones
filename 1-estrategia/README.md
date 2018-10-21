@@ -122,11 +122,7 @@ Entrevistas:
 
 ### Personas
 
-<<<<<<< HEAD
 ![Ficha usuario](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/000bed75764774f3111da87548b594ed0c2d00ba/1-estrategia/Ficha%20de%20usuario.jpg)
-=======
-__Ficha de personaje__
->>>>>>> 1f18b1fea57e9ab78a0d6cb82d4352171dcdeb3f
 
 ## Lean UX Canvas
 

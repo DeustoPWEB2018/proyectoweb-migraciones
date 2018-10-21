@@ -21,7 +21,7 @@ __*¿Cómo quiero que sea el producto?*__
 El producto está pensado como una línea de tiempo.
 Nos referimos a una secuencia de pasos que tiene como punto de partida el momento en que los inmigrantes llegan al País Vasco, desde ahí, se da inicio a una serie de pasos que al ser completados, puedan lograr una plena inserción dentro de la comunidad.
 
-![Los pasos](file:///Users/Estelle/Downloads/PPW%20-%20Estrategia%20.jpg)
+![Los pasos]<img src="/documentos/pasos.png">
 
 __*¿Cuál es el propósito de mi producto?*__
 

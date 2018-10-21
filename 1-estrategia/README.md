@@ -21,7 +21,7 @@ __*¿Cómo quiero que sea el producto?*__
 El producto está pensado como una línea de tiempo.
 Nos referimos a una secuencia de pasos que tiene como punto de partida el momento en que los inmigrantes llegan al País Vasco, desde ahí, se da inicio a una serie de pasos que al ser completados, puedan lograr una plena inserción dentro de la comunidad.
 
-![Los pasos]<img src="/documentos/pasos.png">
+![Los pasos](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/67263fb7c34d19e9a681e9130a3e43f617c0c2b8/1-estrategia/pasos.png?raw=true)
 
 __*¿Cuál es el propósito de mi producto?*__
 

@@ -67,32 +67,44 @@ Aupa tiene como fin comunicar e informar a los migrantes del País Vasco, por en
 
 * Accesibilidad: El sitio web está pensado para obtener acceso multipantalla, es decir, nuestros usuarios pueden ingresar al sitio web desde la computadora, la tablet o el teléfono móvil. 
 
-* Findability:  En nuestro sitio web, la intuitividad es muy importante, las pestañas deben ser muy claras y con una organización fácil para los inmigrantes. Ejemplo: 
+* Findability:  En nuestro sitio web, la intuitividad es muy importante, las pestañas deben ser muy claras y con una organización fácil para los inmigrantes. 
 
 * Funcionalidad: se refiere a que todo lo disponible en la web funcione correctamente. 
-Utilidad: hace referencia al uso que el usuario pueda dar a la web.
 
-* Estética: Esta cualidad busca una apariencia atractiva para ofrecer al usuario. La elección de la tipografía es un ejemplo de criterio influenciado por este factor. → Para nuestro sitio web, la simplicidad es un factor muy importante porque conocemos que no todos nuestros usuarios dominan la lengua hispana, por esta razón no integraremos textos largos y contaremos con la multimedia para enriquecer más nuestro sitio y así ellos puedan encontrar de una manera más rápida lo que buscan. Es decir, el diseño de la plataforma está pensado en simplicidad desde las pestañas del menú hasta el contenido informativo.
+* Utilidad: hace referencia al uso que el usuario pueda dar a la web. Es decir, que la información y la manera de ordenarla sea correcta para cumplir con las necesidades del público objetivo.
 
-* Intuitividad: Otro de los propósitos de la plataforma web es que el usuario pueda vivir una experiencia agradable y sin frustraciones, esto se logra mediante técnicas de navegación que sean claras, que donde el usuario cliquee pueda encontrar lo que requiera, es decir, si lo que busca es información sobre la documentación, encontrará una pestaña que diga Trámite de documentos, y que al clicar ahí salga efectivamente la información de a donde debe ir y las entidades con las cuales se puede comunicar. Un error que le genere frustración al usuario sería que al momento de clicar en la pestaña en lugar de encontrar esa información encuentre micro historias de las experiencias de otros migrantes en la ciudad.  
+* Estética: Esta cualidad busca una apariencia amigable para el usuario. La elección de la tipografía es un ejemplo de criterio influenciado por este factor. → Para nuestro sitio web, la simplicidad es un factor muy importante porque no todos nuestros usuarios dominan la lengua hispana, por esta razón no integraremos textos largos, a su vez, complementaremos con imágenes y multimedia para enriquecer nuestro sitio y ayudar a que se pueda encontrar de una manera más rápida lo que buscan. Es decir, el diseño de la plataforma está pensado en simplicidad desde las pestañas del menú hasta el contenido informativo.
 
-* Credibilidad: Parte de la credibilidad de nuestro sitio se debe a las alianzas que tendremos con las ONG´s y la garantía de esas organizaciones acreditadas por el estado. Lo evidenciamos mediante el sitio en un apartado que diga entidades amigas, es un factor puramente de diseño, pero las facilidades de uso que ofrezca la web al usuario, hará que ésta aparentemente sea más fiable y profesional.
+* Intuitividad: Otro de los propósitos de la plataforma web es que el usuario pueda vivir una experiencia agradable y sin frustraciones, esto se logra mediante técnicas de navegación que sean claras, reduciendo la ambigüedad en la interpretación, es decir, si lo que busca es información sobre la documentación, encontrará una pestaña que diga “Trámite de documentos”, y que al clickear salga efectivamente la información sobre dónde debe ir, qué requisitos cumplimentar, las entidades a las cuales puede contactar. Un error que le genere frustración al usuario sería que al momento de clickear en la pestaña en lugar de encontrar esa información encuentre micro historias de las experiencias de otros migrantes en la ciudad.
 
+* Credibilidad: La credibilidad en nuestro sitio se debe sostener en parte a partir del trabajo ético, transparente, moral y profesional de todos los que forman parte de este sitio web, la otra parte, vendrá dado gracias a las alianzas con instituciones del orden público y reconocidas ONGs. Presentaremos de manera visible, una sección dedicada a los Partners, que serán justamente estas instituciones y organizaciones con quienes trabajamos conjuntamente. Todo esto ayudará en el tiempo a fortalecer la confianza, fiabilidad y credibilidad en nuestro sitio web.
 
 ### Indicadores de éxito
 
-* Happiness (Satisfacción de los usuarios en relación con el producto):
+* Happiness (Satisfacción de los usuarios en relación con el producto): Se quiere la satisfacción del usuario mediante una valoración que realizarán ellos mismos al momento de  abandonar la plataforma. Es decir un tipo de encuesta donde 1 es insatisfecho y 5 es muy satisfecho + un box de sugerencias.
 
-* Engagement (Grado de respuesta del usuario sobre el producto):
+* Engagement (Grado de respuesta del usuario sobre el producto): “Para medir el grado de recomendación que realizan los usuarios de nuestro sitio web podemos utilizar el criterio de clasificación denominado NPS (Net Promoter Score), para lo cual se clasifican en tres grupos: Los detractores serían aquellos con una puntuación de entre 0 y 6, los pasivos aquellos que nos otorguen entre un 7 y un 8 y los promotores serían aquellos que puntuaron entre un 9 y un 10 dicha sección de nuestra web”.→ Para nuestro sitio, podemos utilizar este criterio de clasificación para medir el grado de recomendación de unos inmigrantes a otros. Es muy interesante de utilizar este NPS para nuestro sitio porque podemos saber los sentimientos que tienen las personas por el sitio web.
 
-* Adoption (El número de usuarios que se registra en un determinado espacio temporal):
 
-* Retention (El número de usuarios que utiliza un producto durante un determinado tiempo): 
+* Adoption (El número de usuarios que se registra en un determinado espacio temporal): Es necesario establecer un objetivo de usuarios nuevos en el sitio web vinculado a un porcentaje (ejemplo 90%) de inmigrantes forzados nuevos que arriben al País Vasco mensualmente.
 
-* Task success (Grado de satisfacción respecto a la consecución de las tareas que permite la web): 
+* Retention (El número de usuarios que utiliza un producto durante un determinado tiempo): Es posible que el usuario encuentre diversas dificultades en el sitio web, por esta razón se construyen indicadores como: 
+Ratio de usuarios que han completado todas las tareas
+Ratio de usuarios que han cometido algún error en alguna de las tareas
+Cantidad media de errores cometidos por los usuarios durante las tareas realizadas
+Tiempo estimado para la realización de cada tarea
+Grado de dificultad encontrado para completar cada tarea
 
+* Task success (Grado de satisfacción respecto a la consecución de las tareas que permite la web): Podemos cuestionar a los usuarios de nuestro sitio web para tener un mejor visión de cómo los usuarios vean nuestro sitio web. Es necesario de conocer la idea del usuario sobre nuestro sitio web.
 
 ## Necesidades del usuario
+Segmentación de usuarios
+Generales → Hombre y mujeres 20-45 años
+Específico → Hombres y mujeres entre 20 y 45 años de clase media-baja, que provienen de centroamérica, norte de sudamérica y marruecos.
+
+Nicaragua, Honduras, Colombia, Venezuela, Marruecos 
+“Los más numerosos de países no comunitarios fueron los marroquíes, con 5.427 inscritos; seguidos de los nicaragüenses (3.115) y los bolivianos (2.970). De los procedentes de la Unión Europea el mayor número de afiliados extranjeros provenían de Rumanía, con 9.176 inscritos; seguidos de los portugueses (3.732) y los italianos (1.451).” 
+El Mundo (2018, mayo) 
 
 ### Investigación de usuarios
 

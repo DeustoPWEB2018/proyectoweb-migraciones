@@ -5,7 +5,7 @@
 
 **Producto**
 
-Es una plataforma web informativa denominada *Aupa "el medio que te ayuda"*, consiste en ordenar la información relevante de  instituciones y organizaciones que trabajan para integrar a los migrantes forzados por cuestiones políticas, económicas, guerras (...). Eventualmente crearemos contenido que complemente lo anterior para cumplir los objetivos de este producto. 
+Es una plataforma web informativa denominada *Aupa "La plataforma que te ayuda"*, consiste en ordenar la información relevante de  instituciones publicas y ONGs que trabajan para integrar a los migrantes forzados por cuestiones políticas, económicas, guerras (...). Eventualmente, crearemos contenido que complemente lo anterior para cumplir los objetivos del producto. 
 
 
 ### Visión
@@ -21,9 +21,13 @@ __*¿Cómo quiero que sea el producto?*__
 El producto está pensado como una línea de tiempo.
 Nos referimos a una secuencia de pasos que tiene como punto de partida el momento en que los inmigrantes llegan al País Vasco, desde ahí, se da inicio a una serie de pasos que al ser completados, puedan lograr una plena inserción dentro de la comunidad.
 
+![Los pasos](PPW-Estrategia.jpg)
+
 __*¿Cuál es el propósito de mi producto?*__
 
-Queremos que nuestros usuarios ingresen con inquietudes y salgan con ellas resueltas, es decir, cuando el migrante llega a su lugar de destino se encuentra en lo que denominaremos el punto cero, sin alojamiento, alimentación, educación o atención sanitaria, y partiendo de ello nosotros como organización les brindaremos los pasos a seguir para que puedan incorporarse en el País Vasco.
+Buscamos ser ese facilitador para los inmigrantes forzados que pueda brindarle un marco formal ó camino a seguir para resolver sus necesidades e inquietudes con el menor plazo de tiempo posible.
+De un modo simplificado, partiremos dando por sentado una situación común a todos los inmigrantes forzados la que denominaremos "punto cero" con la siguiente característica: inmigrante forzado que llega al Pais Vasco sin tener resuelto de antemano los papeles migratorios, alojamiento, alimentación, educación, trabajo, atención sanitaria, red de vínculos sociales, etc. Desde allí, existirán "x pasos", que prevén, facilitar el camino a seguir para la resolución ó superación de todas las necesidades que tienen hasta alcanzar el paso final que les permita la plena inserción en la comunidad vasca.
+Desglosar el proceso en pasos permitirá que cada inmigrante forzado pueda partir desde el paso que se adapte a su situación particular y luego si, continuar con los pasos que restan.
 
 __*¿Quiénes son los clientes potenciales asociados con mi producto?*__
 
@@ -38,7 +42,7 @@ Por medio de las alianzas estratégicas con las ONG´s y la certificación de el
 
 __Quien__:
 
-El público al que nos dirigimos son migrantes entre 20 y 45 años que llegan al País Vasco. Nos hemos centrado en esta franja de edad, ya que según una encuesta realizada por el Gobierno Vasco en el año 2010 el 47% de los inmigrantes que llegan tienen entre 25 y 44 años, un 34% son menores de 25 años y tan solo el 19% son mayores de 45 años. Por esta razón, hemos concretado nuestro cliente potencial en este rango de edad, ya que además son las personas que más uso hacen de plataformas web, redes sociales y aplicaciones para móvil o tablets.
+El público al que nos dirigimos son migrantes de entre 20 y 45 años que llegan al País Vasco. Nos hemos centrado en esta franja de edad, ya que según una encuesta realizada por el Gobierno Vasco en el año 2010 el 47% de los inmigrantes que llegan tienen entre 25 y 44 años, un 34% son menores de 25 años y tan solo el 19% son mayores de 45 años. Por esta razón, hemos concretado nuestro publico objetivo en este rango de edad, ya que además son las personas que más uso hacen de plataformas web, redes sociales y aplicaciones para móvil o tablets.
 
 __Que__: 
 

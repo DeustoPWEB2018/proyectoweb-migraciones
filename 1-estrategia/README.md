@@ -1,10 +1,5 @@
 # Plano de estrategia
-<<<<<<< HEAD
-dfhjdndm,mnvd
-=======
 
-
->>>>>>> 1f18b1fea57e9ab78a0d6cb82d4352171dcdeb3f
 ## Objetivos 
 
 **Producto**
@@ -16,8 +11,6 @@ Es una plataforma web informativa denominada *Aupa "La plataforma que te ayuda"*
 
 Ser referentes número uno para todos los refugiados e inmigrantes forzados que llegan al País Vasco para que tengan una correcta inserción dentro de la comunidad.
 
-<<<<<<< HEAD
-=======
 __*¿Cómo veo mi producto?*__
 
 Queremos que Aupa sea un sitio web donde los migrantes puedan encontrar información útil para la acogida en el País Vasco, Además será una plataforma que les permita interactuar y contar sus experiencias al mismo tiempo que se van adaptando al entorno. 
@@ -44,7 +37,6 @@ __*¿Cómo puedo ganarme la confianza de estas personas por medio de mi producto
 Por medio de las alianzas estratégicas con las ONG´s y la certificación de ellas, ya que desde nuestro sitio web se generan hipervínculos directos a los sitios web de esas organizaciones acreditadas y de igual manera conseguir que esas organizaciones nos mencionen en sus sitios. Por otro lado, los documentos y trámites disponibles en el sitio web deberán cumplir con los siguientes requerimientos: ser verídicos, formales, claros y de sitios oficiales de las instituciones públicas del País Vasco y de reconocidas organizaciones no gubernamentales.
 
 
->>>>>>> 1f18b1fea57e9ab78a0d6cb82d4352171dcdeb3f
 ### Circunstancias de uso
 
 __Quien__:

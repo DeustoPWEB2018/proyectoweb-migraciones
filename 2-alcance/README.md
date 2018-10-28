@@ -44,6 +44,9 @@ Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción.
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para efectuar el trámite (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los bellos lugares alrededor de la dependencia pública.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 ##### Nacionalidad
+Marta, con algo de acento español y luego de probar algunos típicos pintxos vascos, si lo que necesita es tramitar la nacionalidad española, deberá hacer click en este apartado. Una vez en la página, encontrará una introducción acerca de las circunstancias y requisitos para solicitar la nacionalidad.
+Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para efectuar el trámite (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los bellos lugares alrededor de la dependencia pública.
+Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 
 #### Servicios (Angie y Mégane)
 

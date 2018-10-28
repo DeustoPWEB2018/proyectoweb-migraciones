@@ -207,9 +207,20 @@ Esta autorización se concede sin necesidad de visado y permite trabajar.
 
 _Fuente:_ 
 
-[Circunstancias excepcionales o humanitarias >  Departamento de Empleo y Políticas Sociales](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_circuns_excephum/es_grecinmi/g156.html)
+[Circunstancias excepcionales o humanitarias >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_circuns_excephum/es_grecinmi/g156.html)
 
 ##### Reunificación familiar
+Es una autorización de residencia que se concede por ser familiar de una persona residente legal en España con su Autorización de Residencia y Trabajo renovada o solicitado su renovación.
+Son familiares reagrupables los cónyuges, los hijos/hijas menores de 18 años o incapacitados/as y los ascendientes dependientes económicamente.
+La persona que quiere reagrupar a sus familiares debe acreditar que cuenta con un empleo y/o recursos económicos suficientes para atender a las necesidades de la familia y que dispone de una vivienda adecuada. Para ello podrá solicitar un Informe de disponibilidad de vivienda en el Ayuntamiento correspondiente.
+El familiar reagrupado debe pedir el Visado de residencia en su país de origen y excepcionalmente lo puede pedir en otro país extranjero. Una vez reagrupado en España y en el plazo de un mes, debe solicitar la Tarjeta de Identificación de Extranjero.
+
+[*** DONDE ***](Link de la sección de Aupa)
+
+_Fuente:_ 
+
+[Reagrupación familiar >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_reagrupacion_fami/es_grecinmi/g152.html)
+
 ##### Nacionalidad
 
 ### Contenido servicios (Angie y Mégane)

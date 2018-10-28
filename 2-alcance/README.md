@@ -191,7 +191,23 @@ _Fuente:_
 
 ##### Demanda de asilo
 ###### Asilo y refugio
+Las personas extranjeras que teman ser víctimas de persecución por razones de raza, religión, nacionalidad, pertenencia a determinado grupo social, opiniones políticas o motivos de género, y huyen de su país de origen o de aquel en el que habitualmente residen, pueden solicitar el asilo y refugio en España.
+
+[*** DONDE ***](Link de la sección de Aupa)
+
+_Fuente:_ 
+
+[Asilo y refugio  >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/asilo_refugio_ginmi/es_grecinmi/g160.html)
 ###### Circunstancias excepcionales ó humanitarias
+Para conseguir una Autorización de Residencia por circunstancias excepcionales se debe haber colaborado con las autoridades administrativas, policiales, fiscales o judiciales.
+También se contemplan razones humanitarias, como los casos de personas extranjeras víctimas de delitos contra los derechos de los trabajadores, delitos con la circunstancia agravante de comisión por motivos racistas, antisemitas o de otra clase de discriminación, o conductas violentas ejercidas en el entorno familiar, personas que acrediten sufrir una enfermedad sobrevenida de carácter grave que requiera asistencia sanitaria especializada; o que acrediten que su traslado al país del que son originarias o proceden implica un peligro para su seguridad o la de su familia.
+Esta autorización se concede sin necesidad de visado y permite trabajar.
+
+[*** DONDE ***](Link de la sección de Aupa)
+
+_Fuente:_ 
+
+[Circunstancias excepcionales o humanitarias >  Departamento de Empleo y Políticas Sociales](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_circuns_excephum/es_grecinmi/g156.html)
 
 ##### Reunificación familiar
 ##### Nacionalidad

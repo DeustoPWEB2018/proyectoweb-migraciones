@@ -145,9 +145,42 @@ _Fuente:_
 [Empadronarme > Departamento de Empleo y Políticas Sociales de Euskadi
 ](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/empadronarse_ginmi/es_grecinmi/g20.html)
 
-
 ##### Residencia
-###### Transitoria 
+
+###### Transitoria
+Una persona extranjera puede encontrarse en España en situación de estancia o en situación de residencia.
+Este Régimen General de Extranjería está establecido para todas las personas extranjeras que no sean comunitarias o familiares de comunitarias y que tampoco se encuentren dentro del ámbito del [asilo y refugio](Link de la sección de Aupa).
+
+Como norma general todas las Autorizaciones en este Régimen General de Extranjería llevan aparejada la concesión previa de su correspondiente visado, que se solicita personalmente en las misiones diplomáticas españolas en los países de origen.
+
+Existen dos tipos de autorizaciones: [Autorización de Trabajo y Residencia](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/autorizacion_trabajo_ginmi/es_grecinmi/g125.html) y Autorizaciones de Residencia. En este apartado explicamos las segundas.
+
+Las Autorizaciones de Residencia pueden ser:
+> - de [Residencia por Reagrupación familiar](Link de la sección de Aupa)
+> - de [Residencia por Arraigo social](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_arraigo_social/es_grecinmi/g153.html)
+> - de [Residencia por Arraigo laboral](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_arraigo_laboral/es_grecinmi/g155.html)
+> - de [Residencia por Circunstancias excepcionales o humanitarias](Link de la sección de Aupa)
+> - de [Residencia permanente](Link de la sección de Aupa)
+
+Por otra parte, también existe la [Autorización para investigación y estudios](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/autorizacion_estancia_ginmi/es_grecinmi/g161.html), que no supone una situación de residencia sino de estancia. 
+
+¿DÓNDE?
+
+Para consultas sobre cómo conseguir estas autorizaciones, las personas extranjeras , pueden dirigirse al siguiente dispositivo de atención jurídica a inmigrantes:
+
+:telephone: 900 840 126
+
+:clock9: 09:00 - 14:00 :clock2:
+ 
+ Este servicio es gratuito.      
+:e-mail: immigrazioa-asesoria@ej-gv.es
+
+_Tarjeta de Identificación de Extranjero_
+
+Es la tarjeta física en la que aparece la Autorización de Residencia y Trabajo o la Autorización de Residencia. Se solicita una vez están concedidas, en resolución firme, las mencionadas autorizaciones.
+La Tarjeta lleva la fotografía, huella de identidad, el correspondiente Número de Identificación de Extranjero (NIE) y otros datos de identificación de la persona.
+
+
 ###### Permanente
 
 ##### Demanda de asilo

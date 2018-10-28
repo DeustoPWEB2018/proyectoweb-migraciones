@@ -37,7 +37,8 @@ Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción.
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 ###### Circunstancias excepcionales ó humanitarias
-
+Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción. Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
+Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 ##### Reunificación familiar
 
 ##### Nacionalidad

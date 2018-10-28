@@ -27,6 +27,9 @@ Si Marta decide explorar esta sección, haciendo click, se desplegarán dos opci
 ###### Transitoria 
 Dentro de residencia transitoria, Marta con un té de limón en la mano, podrá leer una introducción y ver las distintas residencias a las que puede aplicar ( Aclaración: en el caso de la residencia permanente, si Marta hace click, será redireccionada a Residencia Permanente dentro de la sección correspondiente de la página de Aupa), cada una con un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi.
 ###### Permanente
+Dentro de Residencia Permanente, Marta podrá leer acerca de los requisitos.
+Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá comprar las frutas en su lugar favorito y encontrar también el sitio más cercano a su domicilio para hacer esta gestión.
+Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 
 ##### Demanda de asilo
 ###### Asilo y refugio 

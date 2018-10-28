@@ -132,6 +132,7 @@ Fuente:
 
 [Empadronarme > Departamento de Empleo y Políticas Sociales](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/empadronarse_ginmi/es_grecinmi/g20.html)
 
+
 ##### Residencia
 ###### Transitoria 
 ###### Permanente

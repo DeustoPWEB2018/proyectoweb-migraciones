@@ -222,6 +222,18 @@ _Fuente:_
 [Reagrupación familiar >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_reagrupacion_fami/es_grecinmi/g152.html)
 
 ##### Nacionalidad
+Se puede optar a la nacionalidad española si se ha residido en España legalmente y de forma continuada durante 10 años.
+Conseguirla en cinco años es posible para aquellas personas extranjeras que hayan obtenido [asilo y refugio](Link de la sección de Aupa).
+En dos años para personas originarias de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o de origen sefardí.
+En un año sólo puede conseguirla quien haya nacido en territorio español así como quien haya estado bajo tutela de un ciudadano/a o institución españoles durante dos años consecutivos. También quien lleve un año casado/a con una persona española o viudo/a si a la muerte del cónyuge no existiera separación. Por último, puede optar en este período de un año, la persona nacida fuera de España de padre o madre, abuelo o abuela españoles.
+No todos los hijos/as de personas extranjeras nacidas en España son españoles, solamente aquellos en los que según su legislación civil se adquiere la nacionalidad por el derecho de suelo y no de sangre (presunción simple de nacionalidad).
+
+¿DÓNDE?
+Los trámites para el acceso a la nacionalidad española se realizan en los Registros Civiles de la Comunidad Autónoma del País Vasco.
+
+_Fuente:_ 
+
+[Acceso a la nacionalidad española >  Departamento de Empleo y Políticas Sociales](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/nacionalidad_ginmi/es_grecinmi/g154.html)
 
 ### Contenido servicios (Angie y Mégane)
 

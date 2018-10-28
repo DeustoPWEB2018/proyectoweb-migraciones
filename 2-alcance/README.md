@@ -30,8 +30,8 @@ Dentro de residencia transitoria, Marta con un té de limón en la mano, podrá 
 Dentro de Residencia Permanente, Marta podrá leer acerca de los requisitos.
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá comprar las frutas en su lugar favorito y encontrar también el sitio más cercano a su domicilio para hacer esta gestión.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
-
 ##### Demanda de asilo
+En caso de que Marta haya arribado a Euskadi atravesada por una situaciones de fuerza mayor, encontrará haciendo click sobre “Demanda de asilo” un página con una pequeña introducción acerca de los casos en que se estima se puede solicitar asilo en el País Vasco. En la misma página encontrara dos accesos a los que podrá acceder según su necesidad haciendo click:
 ###### Asilo y refugio 
 ###### Circunstancias excepcionales ó humanitarias
 

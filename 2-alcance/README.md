@@ -108,7 +108,7 @@ Se debe presentar un documento que acredite el uso de la vivienda:
  Cuando un menor se empadrone en domicilio distinto del de sus padres, debe existir un documento de autorización.
  _Las gestiones deben volver a hacerse cuando haya cambiado de domicilio._
 
-*** DONDE ***
+[*** DONDE ***](Link de la sección de Aupa)
 
 El alta en el padrón y el cambio de domicilio se realizan en el Ayuntamiento del municipio de residencia habitual.
 
@@ -180,8 +180,14 @@ _Tarjeta de Identificación de Extranjero_
 Es la tarjeta física en la que aparece la Autorización de Residencia y Trabajo o la Autorización de Residencia. Se solicita una vez están concedidas, en resolución firme, las mencionadas autorizaciones.
 La Tarjeta lleva la fotografía, huella de identidad, el correspondiente Número de Identificación de Extranjero (NIE) y otros datos de identificación de la persona.
 
-
 ###### Permanente
+En el Régimen General de Extranjería, se obtiene tras cinco años de residencia legal continuada. Tiene una validez de 5 años y se puede prorrogar.
+
+[*** DONDE ***](Link de la sección de Aupa)
+
+_Fuente:_ 
+
+[Residencia Permanente > Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/autori_residenciaperma_ginmi/es_grecinmi/g158.html)
 
 ##### Demanda de asilo
 ###### Asilo y refugio

@@ -108,6 +108,30 @@ Se debe presentar un documento que acredite el uso de la vivienda:
  Cuando un menor se empadrone en domicilio distinto del de sus padres, debe existir un documento de autorización.
  _Las gestiones deben volver a hacerse cuando haya cambiado de domicilio._
 
+*** DONDE ***
+
+El alta en el padrón y el cambio de domicilio se realizan en el Ayuntamiento del municipio de residencia habitual.
+
+ - [Vitoria-Gasteiz](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/Bilbao_Comisaria.png)
+Calle Oñati 17, 01013 Vitoria-Gasteiz
+:telephone: 945209642  
+
+ - [Bilbao](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/Bilbao_Comisaria.png)
+Calle Gordóniz 8, 48010 Bilbao
+:telephone: 944709000
+
+ - [Donostia-San Sebastián](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/San_Sebastian_Comisaria.png)
+Calle Jose María Salaberria 19, 20010 Donostia-San Sebastián
+:telephone: 943449810 / 943449811  
+
+ - [Irun](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/Irun_Comisaria.png)
+Plaza Ensanche 1, 20301 Irun
+:telephone: 943639900  
+
+Fuente:
+
+[Empadronarme > Departamento de Empleo y Políticas Sociales](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/empadronarse_ginmi/es_grecinmi/g20.html)
+
 ##### Residencia
 ###### Transitoria 
 ###### Permanente

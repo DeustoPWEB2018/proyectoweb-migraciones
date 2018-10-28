@@ -25,6 +25,7 @@ Al final de la página de Empadronamiento, Marta chequear y ampliar información
 ##### Residencia
 Si Marta decide explorar esta sección, haciendo click, se desplegarán dos opciones: Residencia transitoria y Residencia Permanente. Accederá a uno de ambos según su necesidad.
 ###### Transitoria 
+Dentro de residencia transitoria, Marta con un té de limón en la mano, podrá leer una introducción y ver las distintas residencias a las que puede aplicar ( Aclaración: en el caso de la residencia permanente, si Marta hace click, será redireccionada a Residencia Permanente dentro de la sección correspondiente de la página de Aupa), cada una con un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi.
 ###### Permanente
 
 ##### Demanda de asilo

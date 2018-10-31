@@ -48,6 +48,10 @@ Marta, con algo de acento español y luego de probar algunos típicos pintxos va
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para efectuar el trámite (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los bellos lugares alrededor de la dependencia pública.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 
+##### DONDE
+
+Dentro de la pestaña "Tramites", como sabemos que Marta es amante de Dora la exploradora, incluiremos una acceso a la pagina "DONDE", aquí, Marta podrá descubrir los lugares en que puede efectuar los trámites junto con unas fotos re cool de las dependencias públicas, información de contacto telefónico y su dirección.
+
 #### Servicios (Angie y Mégane)
 
 #### Foro (Estelle)

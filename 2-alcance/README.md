@@ -88,7 +88,7 @@ Al final de la página empadronamiento, va a haber un último apartado destinado
 ###### Transitoria
 Aquí tendremos un sección en formato texto con información sobre los distintos tipos de residencias transitorias, las cuales deben tener el acceso directo sobre la palabra al sitio oficial que proporciona la respectiva información o si tenemos en “Aupa” una página sobre la misma, el redireccionamiento será directamente allí.
 
-En el caso de la sección sobre “autorización para investigación y estudio” en la misma palabra se debe poner un link de acceso a la página oficial,  y en Donde tramitar, se debe colocar unos emoticones de teléfono (:telephone:), reloj (:clock:) y mail (:e-mail:) al lado de la información de contacto.
+En el caso de la sección sobre “autorización para investigación y estudio” en la misma palabra se debe poner un link de acceso a la página oficial,  y en Donde tramitar, se debe colocar unos emoticones de teléfono (:telephone:), reloj (:clock9: :clock2:) y mail (:e-mail:) al lado de la información de contacto.
 
 ###### Permanente
 Aquí tendremos un sección en formato texto con información sobre los requisitos.

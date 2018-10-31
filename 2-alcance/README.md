@@ -73,171 +73,61 @@ Dentro de la pestaña "Tramites", como sabemos que Marta es amante de Dora la ex
 ### Contenido trámites (Lisandro)
 
 ##### Empadronamiento
-**Que es?**
+Aquí habrá 4 apartados, cada uno va a tener información en formato texto que responderán a los siguientes títulos:
+>- Que es?
+>- Cual es el beneficio de empadronarse?
+>- Requisitos
+>- Tramitación
 
-Empadronarse significa inscribirse en el Padrón Municipal, un registro donde figuran todos los vecinos y vecinas de la localidad. Se empadronan tanto las personas con nacionalidad española como las extranjeras, independientemente de su situación administrativa regular o irregular y de su edad.
+A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-**Cual es el beneficio de empadronarse?**
-
-- Puede ser un requisito en muchos trámites oficiales, ayudas sociales y ayudas económicas.
-- Permite solicitar la Tarjeta Individual Sanitaria, la escolarización de los y las menores, o acceder a los Servicios Sociales del municipio.
-- Sirve para probar el tiempo que la persona lleva viviendo en España y en la Comunidad Autónoma del País Vasco.
-- Posibilita la participación en los programas para mejorar las condiciones de vida de los vecinos y vecinas.
-
-**Requisitos**
-
-+ Ser mayor de edad o menor con autorización.
-+ Residir en uno de los municipios de la Comunidad Autónoma del País Vasco.
-
-**Tramitación**
-
-Se debe rellenar y firmar el Impreso de Inscripción. Es recomendable presentar una solicitud por escrito y pedir una copia de la misma con sello de entrada.
-Se debe presentar un documento oficial que identifique debidamente:
-
- - En el caso de personas con nacionalidad española es el Documento Nacional de Identidad (DNI).
- - Para personas extranjeras, los documentos identificadores válidos son la Tarjeta de Residencia o pasaporte en vigor (también la tarjeta de identidad vigente para ciudadanos de la U.E.). Los y las menores necesitan el Libro de Familia o una partida de nacimiento original.
- 
-Se debe presentar un documento que acredite el uso de la vivienda:
-
-- La escritura de propiedad o contrato privado de compra-venta recientes.
-- El contrato de arrendamiento en vigor.
-- Un recibo actual de IBI (Impuesto de Bienes Inmuebles) , contrato reciente o último recibo de una compañía de servicios (agua, gas, electricidad, telefonía fija, seguro de hogar).
-
- Si no se cuenta con nada de lo anterior, autorización de empadronamiento:
-  - Si en el domicilio residen y figuran empadronadas otras personas, autorizará el empadronamiento alguna de ellas mayor de edad acompañando original y fotocopia de su documento de identidad.
-  - Si no figuran empadronadas otras personas y ninguna de las que pretende inscribirse es titular de la vivienda, alguna de las personas titulares, mayor de edad, acreditará tal condición y autorizará la inscripción de las nuevas personas residentes adjuntando original y fotocopia de su documento de identidad.
-  - Si se trata de un establecimiento colectivo, en la solicitud de alta deberá figurar el nombre y la firma de la persona responsable así como el sello del establecimiento, o bien si no tuviera sello la persona responsable acreditará documentalmente que lo es. También es posible acompañar una autorización.
- 
- En el caso de no tener alguno de los anteriores documentos, se deberá solicitar por escrito el alta en el padrón y será la Administración la que compruebe la veracidad de los datos y la residencia.
- Cuando un menor se empadrone en domicilio distinto del de sus padres, debe existir un documento de autorización.
- _Las gestiones deben volver a hacerse cuando haya cambiado de domicilio._
-
-[*** DONDE ***](Link de la sección de Aupa)
-
-El alta en el padrón y el cambio de domicilio se realizan en el Ayuntamiento del municipio de residencia habitual.
-
- - **Vitoria-Gasteiz** 
-
- ![Vitoria-Gasteiz](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/Vitoria_Gasteiz_Comisaria.png)
-
-Calle Oñati 17, 01013 Vitoria-Gasteiz
-:telephone: 945209642  
-
- - **Bilbao**
-
- ![Bilbao](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/Bilbao_Comisaria.png)
-
-Calle Gordóniz 8, 48010 Bilbao
-:telephone: 944709000
-
- - **Donostia-San Sebastián**
-
- ![Donostia-San Sebastián](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/San_Sebastian_Comisaria.png)
-
-Calle Jose María Salaberria 19, 20010 Donostia-San Sebastián
-:telephone: 943449810 / 943449811  
-
- - **Irun**
-
- ![Irun](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/30fd0e1653911f0a434fff090dcc571abe13a213/2-alcance/Irun_Comisaria.png)
-
-Plaza Ensanche 1, 20301 Irun
-:telephone: 943639900  
-
-_Fuente:_ 
-
-[Empadronarme > Departamento de Empleo y Políticas Sociales de Euskadi
-](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/empadronarse_ginmi/es_grecinmi/g20.html)
+Al final de la página empadronamiento, va a haber un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Empadronamiento”.
 
 ##### Residencia
 
 ###### Transitoria
-Una persona extranjera puede encontrarse en España en situación de estancia o en situación de residencia.
-Este Régimen General de Extranjería está establecido para todas las personas extranjeras que no sean comunitarias o familiares de comunitarias y que tampoco se encuentren dentro del ámbito del [asilo y refugio](Link de la sección de Aupa).
+Aquí tendremos un sección en formato texto con información sobre los distintos tipos de residencias transitorias, las cuales deben tener el acceso directo sobre la palabra al sitio oficial que proporciona la respectiva información o si tenemos en “Aupa” una página sobre la misma, el redireccionamiento será directamente allí.
 
-Como norma general todas las Autorizaciones en este Régimen General de Extranjería llevan aparejada la concesión previa de su correspondiente visado, que se solicita personalmente en las misiones diplomáticas españolas en los países de origen.
-
-Existen dos tipos de autorizaciones: [Autorización de Trabajo y Residencia](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/autorizacion_trabajo_ginmi/es_grecinmi/g125.html) y Autorizaciones de Residencia. En este apartado explicamos las segundas.
-
-Las Autorizaciones de Residencia pueden ser:
-> - de [Residencia por Reagrupación familiar](Link de la sección de Aupa)
-> - de [Residencia por Arraigo social](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_arraigo_social/es_grecinmi/g153.html)
-> - de [Residencia por Arraigo laboral](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_arraigo_laboral/es_grecinmi/g155.html)
-> - de [Residencia por Circunstancias excepcionales o humanitarias](Link de la sección de Aupa)
-> - de [Residencia permanente](Link de la sección de Aupa)
-
-Por otra parte, también existe la [Autorización para investigación y estudios](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/autorizacion_estancia_ginmi/es_grecinmi/g161.html), que no supone una situación de residencia sino de estancia. 
-
-¿DÓNDE?
-
-Para consultas sobre cómo conseguir estas autorizaciones, las personas extranjeras , pueden dirigirse al siguiente dispositivo de atención jurídica a inmigrantes:
-
-:telephone: 900 840 126
-
-:clock9: 09:00 - 14:00 :clock2:
- 
- Este servicio es gratuito.      
-:e-mail: immigrazioa-asesoria@ej-gv.es
-
-_Tarjeta de Identificación de Extranjero_
-
-Es la tarjeta física en la que aparece la Autorización de Residencia y Trabajo o la Autorización de Residencia. Se solicita una vez están concedidas, en resolución firme, las mencionadas autorizaciones.
-La Tarjeta lleva la fotografía, huella de identidad, el correspondiente Número de Identificación de Extranjero (NIE) y otros datos de identificación de la persona.
+En el caso de la sección sobre “autorización para investigación y estudio” en la misma palabra se debe poner un link de acceso a la página oficial,  y en Donde tramitar, se debe colocar unos emoticones de teléfono (:telephone:), reloj (:clock:) y mail (:e-mail:) al lado de la información de contacto.
 
 ###### Permanente
-En el Régimen General de Extranjería, se obtiene tras cinco años de residencia legal continuada. Tiene una validez de 5 años y se puede prorrogar.
+Aquí tendremos un sección en formato texto con información sobre los requisitos.
 
-[*** DONDE ***](Link de la sección de Aupa)
+A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-_Fuente:_ 
-
-[Residencia Permanente > Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/autori_residenciaperma_ginmi/es_grecinmi/g158.html)
+Al final de la página de “Residencia Permanente”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Permanente”.
 
 ##### Demanda de asilo
 ###### Asilo y refugio
-Las personas extranjeras que teman ser víctimas de persecución por razones de raza, religión, nacionalidad, pertenencia a determinado grupo social, opiniones políticas o motivos de género, y huyen de su país de origen o de aquel en el que habitualmente residen, pueden solicitar el asilo y refugio en España.
+Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Asilo y refugio”.
 
-[*** DONDE ***](Link de la sección de Aupa)
+A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-_Fuente:_ 
+Al final de la página de “Asilo y refugio”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
-[Asilo y refugio  >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/asilo_refugio_ginmi/es_grecinmi/g160.html)
 ###### Circunstancias excepcionales ó humanitarias
-Para conseguir una Autorización de Residencia por circunstancias excepcionales se debe haber colaborado con las autoridades administrativas, policiales, fiscales o judiciales.
-También se contemplan razones humanitarias, como los casos de personas extranjeras víctimas de delitos contra los derechos de los trabajadores, delitos con la circunstancia agravante de comisión por motivos racistas, antisemitas o de otra clase de discriminación, o conductas violentas ejercidas en el entorno familiar, personas que acrediten sufrir una enfermedad sobrevenida de carácter grave que requiera asistencia sanitaria especializada; o que acrediten que su traslado al país del que son originarias o proceden implica un peligro para su seguridad o la de su familia.
-Esta autorización se concede sin necesidad de visado y permite trabajar.
+Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Circunstancias excepcionales ó humanitarias”.
 
-[*** DONDE ***](Link de la sección de Aupa)
+A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-_Fuente:_ 
-
-[Circunstancias excepcionales o humanitarias >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_circuns_excephum/es_grecinmi/g156.html)
+Al final de la página de “Circunstancias excepcionales ó humanitarias”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
 ##### Reunificación familiar
-Es una autorización de residencia que se concede por ser familiar de una persona residente legal en España con su Autorización de Residencia y Trabajo renovada o solicitado su renovación.
-Son familiares reagrupables los cónyuges, los hijos/hijas menores de 18 años o incapacitados/as y los ascendientes dependientes económicamente.
-La persona que quiere reagrupar a sus familiares debe acreditar que cuenta con un empleo y/o recursos económicos suficientes para atender a las necesidades de la familia y que dispone de una vivienda adecuada. Para ello podrá solicitar un Informe de disponibilidad de vivienda en el Ayuntamiento correspondiente.
-El familiar reagrupado debe pedir el Visado de residencia en su país de origen y excepcionalmente lo puede pedir en otro país extranjero. Una vez reagrupado en España y en el plazo de un mes, debe solicitar la Tarjeta de Identificación de Extranjero.
+Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Reunificación familiar”.
 
-[*** DONDE ***](Link de la sección de Aupa)
+A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-_Fuente:_ 
-
-[Reagrupación familiar >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/residencia_reagrupacion_fami/es_grecinmi/g152.html)
+Al final de la página de “Reunificación familiar”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
 ##### Nacionalidad
-Se puede optar a la nacionalidad española si se ha residido en España legalmente y de forma continuada durante 10 años.
-Conseguirla en cinco años es posible para aquellas personas extranjeras que hayan obtenido [asilo y refugio](Link de la sección de Aupa).
-En dos años para personas originarias de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o de origen sefardí.
-En un año sólo puede conseguirla quien haya nacido en territorio español así como quien haya estado bajo tutela de un ciudadano/a o institución españoles durante dos años consecutivos. También quien lleve un año casado/a con una persona española o viudo/a si a la muerte del cónyuge no existiera separación. Por último, puede optar en este período de un año, la persona nacida fuera de España de padre o madre, abuelo o abuela españoles.
-No todos los hijos/as de personas extranjeras nacidas en España son españoles, solamente aquellos en los que según su legislación civil se adquiere la nacionalidad por el derecho de suelo y no de sangre (presunción simple de nacionalidad).
+Aquí debe haber una sección en formato texto con una explicación acerca de los requisitos para obtener la Nacionalidad.
 
-¿DÓNDE?
-Los trámites para el acceso a la nacionalidad española se realizan en los Registros Civiles de la Comunidad Autónoma del País Vasco.
+A continuación habrá una sección sobre Dónde tramitar la Nacionalidad.
 
-_Fuente:_ 
+Al final de la página de “Nacionalidad”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
-[Acceso a la nacionalidad española >  Departamento de Empleo y Políticas Sociales de Euskadi](http://www.euskadi.eus/web01-a2famil/es/contenidos/informacion/nacionalidad_ginmi/es_grecinmi/g154.html)
+##### DONDE
+Aquí se va a especificar con formato de texto donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la dirección de cada lugar.
 
 ### Contenido servicios (Angie y Mégane)
 

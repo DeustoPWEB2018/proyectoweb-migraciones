@@ -64,15 +64,21 @@ Dentro de la pestaña "Tramites", como sabemos que Marta es amante de Dora la ex
 
 ## Requerimientos de contenido 
 
-### Contenido página de inicio (Estelle)
+### CONTENIDO
 
-### Contenido comunidad (Estelle)
+#### Audiencia
 
-### Contenido entidades (Estelle)
+#### Mensaje
 
-### Contenido trámites (Lisandro)
+##### Contenido página de inicio (Estelle)
 
-##### Empadronamiento
+##### Contenido comunidad (Estelle)
+
+##### Contenido entidades (Estelle)
+
+##### Contenido trámites (Lisandro)
+
+###### Empadronamiento
 Aquí habrá 4 apartados, cada uno va a tener información en formato texto que responderán a los siguientes títulos:
 >- Que es?
 >- Cual es el beneficio de empadronarse?
@@ -83,56 +89,74 @@ A continuación habrá un link de acceso sobre la palabra **“DONDE”** que di
 
 Al final de la página empadronamiento, va a haber un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Empadronamiento”.
 
-##### Residencia
+###### Residencia
 
-###### Transitoria
+ - Transitoria
 Aquí tendremos un sección en formato texto con información sobre los distintos tipos de residencias transitorias, las cuales deben tener el acceso directo sobre la palabra al sitio oficial que proporciona la respectiva información o si tenemos en “Aupa” una página sobre la misma, el redireccionamiento será directamente allí.
 
-En el caso de la sección sobre “autorización para investigación y estudio” en la misma palabra se debe poner un link de acceso a la página oficial,  y en Donde tramitar, se debe colocar unos emoticones de teléfono (:telephone:), reloj (:clock9: :clock2:) y mail (:e-mail:) al lado de la información de contacto.
+ En el caso de la sección sobre “autorización para investigación y estudio” en la misma palabra se debe poner un link de acceso a la página oficial,  y en Donde tramitar, se debe colocar unos emoticones de teléfono (:telephone:), reloj (:clock9: :clock2:) y mail (:e-mail:) al lado de la información de contacto.
 
-###### Permanente
-Aquí tendremos un sección en formato texto con información sobre los requisitos.
+ - Permanente
+ Aquí tendremos un sección en formato texto con información sobre los requisitos.
 
-A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
+ A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-Al final de la página de “Residencia Permanente”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Permanente”.
+ Al final de la página de “Residencia Permanente”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Permanente”.
 
-##### Demanda de asilo
-###### Asilo y refugio
-Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Asilo y refugio”.
+###### Demanda de asilo
+ - Asilo y refugio
+ Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Asilo y refugio”.
 
-A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
+ A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-Al final de la página de “Asilo y refugio”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
+ Al final de la página de “Asilo y refugio”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
-###### Circunstancias excepcionales ó humanitarias
-Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Circunstancias excepcionales ó humanitarias”.
+ - Circunstancias excepcionales ó humanitarias
+ Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Circunstancias excepcionales ó humanitarias”.
 
-A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
+ A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
-Al final de la página de “Circunstancias excepcionales ó humanitarias”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
+ Al final de la página de “Circunstancias excepcionales ó humanitarias”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
-##### Reunificación familiar
+###### Reunificación familiar
 Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Reunificación familiar”.
 
 A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
 
 Al final de la página de “Reunificación familiar”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
-##### Nacionalidad
+###### Nacionalidad
 Aquí debe haber una sección en formato texto con una explicación acerca de los requisitos para obtener la Nacionalidad.
 
 A continuación habrá una sección sobre Dónde tramitar la Nacionalidad.
 
 Al final de la página de “Nacionalidad”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
 
-##### DONDE
+###### DONDE
 Aquí se va a especificar con formato de texto donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la dirección de cada lugar.
 
-### Contenido servicios (Angie y Mégane)
+##### Contenido servicios (Angie y Mégane)
 
-### Contenido foro (Estelle)
+##### Contenido foro (Estelle)
 
-### Contenido contacto (Estelle)
+##### Contenido contacto (Estelle)
+
+#### Temas
+
+#### Propósito
+
+#### Tono y lenguaje
+
+#### Fuentes o contenido
+
+#### Priorizar el contenido 
+
+## Estructura
+
+#### Primeras decisiones
+
+#### Navegación 
+
+#### Herramientas útiles 
 
 ## Referencias

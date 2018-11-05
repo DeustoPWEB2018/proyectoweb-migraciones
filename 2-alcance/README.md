@@ -98,6 +98,8 @@ Se conoce que la situación de los migrantes es de total vulnerabilidad y por en
 
 #### Temas:
 
+![web](/2-alcance/Estructura.PNG)
+
 #### Propósito: 
 
 Aupa es una plataforma web pensada para ayudar a los migrantes de Nicaragua, Venezuela y Colombia que llegan al País Vasco con la esperanza de conseguir mejores oportunidades. Este objetivo se logra brindándoles la información de los trámites que deben realizar y las entidades u organizaciones a las cuales se deben dirigir para que el alojamiento de los mismos sea legal en San sebastián, Bilbao, Irún y Vitoria. Es decir, informar acerca de los lugares de acogida, centros de sanidad, centros educativos, entidades que brindan empleo y lugares donde otorguen la alimentación para niños, mujeres y hombres inmigrantes en el País Vasco , además de la documentación que necesiten para acceder a estos centros de atención y trámites como agrupación familiar, empadronamiento, nacionalidad, asilo entre otras.  

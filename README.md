@@ -25,15 +25,12 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
-<<<<<<< HEAD
-- ...
-=======
 - Barret, Mégane
 - Roques, Estelle
 - Toledo, Lisandro
 - Lozano, Angie
-- ...
->>>>>>> d82bdf75f95b4cab14dbbe599b27954757ab3bad
+
+<!-- ¿Está este contenido integrado en 1-estrategia/README.md? 
 
 **PRODUCTO:** Es una plataforma web informativa denominada Aupa→  Creciendo en comunidad,  consiste en ordenar la información relevante de  instituciones y organizaciones que trabajan para integrar a los migrantes forzados por cuestiones políticas, económicas, guerras (...). Eventualmente crearemos contenido que complemente lo anterior para cumplir los objetivos de este producto.
 
@@ -71,3 +68,4 @@ Por medio de las alianzas estratégicas con las ONG´s y la certificación de el
 **Dónde:** Pais Vasco. 
 
 **Para que:** Facilitar la integración de los inmigrantes en la comunidad Vasca, brindarles esperanza y que puedan superar la crisis en la que se ven sumergidos.
+-->

@@ -1,6 +1,5 @@
 # Plano de estrategia
 
-
 ## Objetivos 
 
 **Producto**
@@ -102,16 +101,23 @@ Segmentación de usuarios
 Generales → Hombre y mujeres 20-45 años
 Específico → Hombres y mujeres entre 20 y 45 años de clase media-baja, que provienen de centroamérica, norte de sudamérica y marruecos.
 
-Nicaragua, Honduras, Colombia, Venezuela, Marruecos 
-“Los más numerosos de países no comunitarios fueron los marroquíes, con 5.427 inscritos; seguidos de los nicaragüenses (3.115) y los bolivianos (2.970). De los procedentes de la Unión Europea el mayor número de afiliados extranjeros provenían de Rumanía, con 9.176 inscritos; seguidos de los portugueses (3.732) y los italianos (1.451).” 
-El Mundo (2018, mayo) 
-
 ### Investigación de usuarios
 
+<<<<<<< HEAD
+=======
+Entrevistas:
+- Reflexione: ¿Qué complicaciones encontró desde su llegada en el País Vasco?
+- Enumera cosas que le resulten importante lograr para sentir que ha alcanzado una plena inserción en el País Vasco.
+- ¿Cree que una plataforma web puede ayudarle a lo largo del camino hasta alcanzar una mejor adaptación en el País Vasco?
+- ¿Qué esperaría de un sitio web orientado a inmigrantes forzados para que sea útil?
+- ¿Con qué frecuencia utiliza internet?
+- ¿Por medio de que soporte tecnológico se conecta a internet? 
+- ¿Con qué frecuencia consulta los portales de noticias de su país de origen?
+>>>>>>> bd5e00734c89688984ade9a16fda2bc0afd55a82
 
 ### Personas
 
-__Ficha de personaje__
+![Ficha usuario](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/000bed75764774f3111da87548b594ed0c2d00ba/1-estrategia/Ficha%20de%20usuario.jpg)
 
 ## Lean UX Canvas
 

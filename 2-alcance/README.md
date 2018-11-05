@@ -31,6 +31,8 @@ En la pestaña “entidades” descubre todas las organizaciones que están en a
 
 #### Servicios (Angie y Mégane)
 
+Clicando en la pestaña servicios encontrarás la orientación que necesitas en temas como: sanidad, refugio, alimentación, educación, género y empleo. Donde cada una de esas pestañas te da la opción de clicar y al entrar allí, podrás encontrar la informacion u orientacion requerida que te orientará en dicho tema.
+
 ##### Sanidad 
 
 ##### Refugio
@@ -116,7 +118,7 @@ En esta página el usuario podrá encontrar la ubicación, el teléfono y las re
 
 #### Priorizar el contenido 
 
-* Requisitos:
+* Requisitos: Queremos ofrecer este tipo de contenido a las personas que migran forzosamente al País Vasco con el objetivo de facilitarles a su llegada una mejor integración en esta región y que no se sientan perdidos a la hora instalarse. 
 
 * Alcance: 
 
@@ -138,7 +140,7 @@ En esta página el usuario podrá encontrar la ubicación, el teléfono y las re
 
 #### Navegación 
 
-* Nomenclatura: La plataforma será organizada en varias secciones: Comunidad, Entidades, Trámites, Servicios, Foro, Contacto y Idiomas.
+* Nomenclatura: La plataforma será organizada en varias secciones: Comunidad, Entidades, Trámites, Servicios, Foro, Contacto y Idiomas. Cada sección se compone de subsecciones que llevan a diferentes páginas. 
  
 * Hipervínculos: Los hipervínculos aparecerán en nuestro sitio web cada vez que mencionaremos entidades o actores exteriores. Esto concierne los ayuntamientos, el gobierno Vasco, las organizaciones non gouvernementales, etc. Dará la posibilidad a los internautas encontrar más informaciones a propósito de lo que están buscando. 
 
@@ -147,5 +149,7 @@ En esta página el usuario podrá encontrar la ubicación, el teléfono y las re
 * Etiquetas: Pondremos etiquetas en todos los contenidos que pueden servir y ser útiles para los inmigrantes. En efecto, estas etiquetas permitiran al contenido estar relacionado con el buscador del sitio y cuando los internautas querrian buscar una información la encontrarán más fácilmente. 
 
 #### Herramientas utiles 
+
+Para imaginarnos concretamente cómo va a representar nuestro sitio web vamos a utilizar el mapa del sitio y después realizaremos una tabla de página para organizar de manera coherente el contenido propuesto. 
 
 ## Referencias

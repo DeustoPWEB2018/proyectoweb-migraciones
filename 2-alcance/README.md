@@ -151,11 +151,35 @@ Aquí se va a especificar con formato de texto donde se puede efectuar el trámi
 
 #### Priorizar el contenido 
 
+* Requisitos:
+
+* Alcance: Alcance: La audiencia a la que pretendemos alcanzar se conforma con los inmigrantes forzados provenientes de países como Nicaragua, Colombia y Venezuela que arriban al País Vasco.
+
+* Relevancia: El usuario de la página web Aupa va a encontrar valor en la misma debido a la presentación clasificada y ordenada de la información que les va a ayudar a cubrir de forma integral las necesidades que tienen que resolver los inmigrantes forzados cuando arriban al País Vasco. Los inmigrantes forzados que no utilicen la plataforma pueden encontrarse con información falsa, desactualizada, desordenada o simplemente faltar pasos importantes que les ayuden a la hora de una mejor inserción en el País Vasco.
+
+* Ingresos: Somos una organización sin fin de lucro, dado esto, los medios y las actividades que puedan generar ingresos van a estar en sintonía con la idea de financiar al equipo de trabajo y las acciones que genera la plataforma para cumplir con la misión, visión y objetivos propuestos. Queremos ser un actor de relevancia y un referente en cuanto a inmigración forzada en el País Vasco, es por ello que en primer lugar, tendremos a disposición la posibilidad de recibir donaciones a voluntad y de forma independiente a nuestra página. Segundo, si las donaciones no son suficientes, podría generarse otra fuente de ingreso a través de la publicidad en banners cuidadosamente diseñados para no interferir con el cumplimiento de nuestra actividad. Más adelante y apoyándonos en las estadísticas, podremos diseñar algún sistema de compensaciones económicas en la medida que nuestro trabajo genere conversiones de objetivos para nuestros partners, ONGs, instituciones públicas, entre otros.
+
 ## Estructura
 
 #### Primeras decisiones
 
-#### Navegación 
+* Canal:
+
+* Plataforma: El soporte para nuestra página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web.
+
+* Formato:
+
+* Mensaje clave:
+ 
+#### Navegación
+
+* Nomenclatura:
+
+* Hipervínculos:
+
+* Microcopias: En principio no necesitaremos la aplicación de esta herramienta. De todas formas, valoraremos más adelante se utilizarlo mejora la experiencia de usuario.
+
+* Etiquetas: 
 
 #### Herramientas útiles 
 

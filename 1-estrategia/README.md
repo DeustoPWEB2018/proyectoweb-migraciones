@@ -103,6 +103,8 @@ Específico → Hombres y mujeres entre 20 y 45 años de clase media-baja, que p
 
 ### Investigación de usuarios
 
+<<<<<<< HEAD
+=======
 Entrevistas:
 - Reflexione: ¿Qué complicaciones encontró desde su llegada en el País Vasco?
 - Enumera cosas que le resulten importante lograr para sentir que ha alcanzado una plena inserción en el País Vasco.
@@ -111,6 +113,7 @@ Entrevistas:
 - ¿Con qué frecuencia utiliza internet?
 - ¿Por medio de que soporte tecnológico se conecta a internet? 
 - ¿Con qué frecuencia consulta los portales de noticias de su país de origen?
+>>>>>>> bd5e00734c89688984ade9a16fda2bc0afd55a82
 
 ### Personas
 

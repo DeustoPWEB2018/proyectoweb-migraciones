@@ -263,35 +263,19 @@ El contenido que se alojara en Aupa es principalmente co-creado, es decir, se to
 
 * Canal: Pagina Web 
 
-* Plataforma: 
+* Plataforma: El soporte para nuestra página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web.
 
 * Formato: En nuestra plataforma habrá artículos, formularios, imagenes, videos etc. Entonces habrá una diversidad de formatos. 
 
 * Mensaje clave: Queremos transmitir la idea de que todos los inmigrantes que vienen a País Vasco pueden encontrar soluciones, ayuda o opiniones para instalarse en esta región. 
-
-* Canal:
-
-* Plataforma: El soporte para nuestra página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web.
-
-* Formato:
-
-* Mensaje clave:
  
 #### Navegación
 
-* Nomenclatura:
-
-* Hipervínculos:
-
 * Microcopias: En principio no necesitaremos la aplicación de esta herramienta. De todas formas, valoraremos más adelante se utilizarlo mejora la experiencia de usuario.
-
-* Etiquetas: 
 
 * Nomenclatura: La plataforma será organizada en varias secciones: Comunidad, Entidades, Trámites, Servicios, Foro, Contacto y Idiomas. Cada sección se compone de subsecciones que llevan a diferentes páginas. 
  
 * Hipervínculos: Los hipervínculos aparecerán en nuestro sitio web cada vez que mencionaremos entidades o actores exteriores. Esto concierne los ayuntamientos, el gobierno Vasco, las organizaciones non gouvernementales, etc. Dará la posibilidad a los internautas encontrar más informaciones a propósito de lo que están buscando. 
-
-* Microcopias: 
 
 * Etiquetas: Pondremos etiquetas en todos los contenidos que pueden servir y ser útiles para los inmigrantes. En efecto, estas etiquetas permitiran al contenido estar relacionado con el buscador del sitio y cuando los internautas querrian buscar una información la encontrarán más fácilmente. 
 

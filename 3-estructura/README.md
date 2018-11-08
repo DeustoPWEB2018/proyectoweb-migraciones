@@ -1,19 +1,19 @@
 # Plano de estructura
 
-## Introducion
+## Introducción
 
-## Diseno de le interaccion (Angie)
+## Diseño de le interacción (Angie)
 
-### Elementos del diseno de la interaccion 
+### Elementos del diseño de la interacción 
 
-## Arquitectura de la informacion (Estelle, Mégane, Lisandro)
+## Arquitectura de la información (Estelle, Mégane, Lisandro)
 
-### Estructurar el contenido
+### Estructura del contenido
 
 #### Enfoques de arquitectura
 
-#### Principios de organizacion 
+#### Principios de organización 
 
-## Diagramacion (Angie)
+## Diagramación (Angie)
 
 ## Referencias

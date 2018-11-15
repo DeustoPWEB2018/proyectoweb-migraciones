@@ -8,7 +8,7 @@ Desde el diseño de la interacción se busca mejorar el funcionamiento del sitio
 
 Las principales funciones interactivas que nos encontramos en “Aupa” son “Foro”, “Contáctenos” y “Buscar”, los cuales se ejecutarán de la siguiente manera: 
 
-    **• Foro:** dentro de la pestaña foro se tendrá en cuenta la comunicación de persona maquina, acción/reacción y flujo de trabajo, todo ello mediante los siguientes pasos: 
+    • Foro: dentro de la pestaña foro se tendrá en cuenta la comunicación de persona maquina, acción/reacción y flujo de trabajo, todo ello mediante los siguientes pasos: 
 
     1. La barra de menú permite acceder a la pestaña de foro. 
     2. Estando allí, cada usuario podrá seleccionar la región donde quieren instalarse, es decir, San Sebastián, Bilbao, Vitoria o Irún. 

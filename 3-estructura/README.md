@@ -27,7 +27,10 @@ Foro: dentro de la pestaña foro se tendrá en cuenta la comunicación de person
 #### Principios de organizacion 
 
 ## Diagramacion (Angie)
+Mediante la diagramación se quiere mostrar el diseño del sitio web y para ello la estructura que se usará será la conocida como “el árbol”, además, se visualizarán las etiquetas pensadas para cada una de las pestañas por el grupo de trabajo. 
+
 ![uno](/Ej_uno.png) 
+
 ![dos](/Ej_dos.png)
 
 ## Referencias

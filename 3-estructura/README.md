@@ -28,5 +28,6 @@ Foro: dentro de la pestaña foro se tendrá en cuenta la comunicación de person
 
 ## Diagramacion (Angie)
 ![uno](/Ej_uno.png) 
+![dos](/Ej_dos.png)
 
 ## Referencias

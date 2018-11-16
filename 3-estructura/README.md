@@ -27,5 +27,6 @@ Foro: dentro de la pestaña foro se tendrá en cuenta la comunicación de person
 #### Principios de organizacion 
 
 ## Diagramacion (Angie)
+![uno](/Ej_uno.png) 
 
 ## Referencias

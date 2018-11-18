@@ -146,5 +146,7 @@ Lo que podemos concluir de este ejercicio muy interesante es que la prueba indiv
 ## Diagramación 
 Mediante la diagramación se quiere mostrar el diseño del sitio web y para ello la estructura que se usará será la conocida como “el árbol”, además, se visualizarán las etiquetas pensadas para cada una de las pestañas por el grupo de trabajo. 
 
+![Diagrama uno](uno.png)
 ![Diagrama dos](dos.png)
+
 ## Referencias

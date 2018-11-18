@@ -1,8 +1,8 @@
 # Plano de estructura
 
-## Introducion
+## Introdución
 
-## Diseno de le interaccion (Angie)
+## Diseño de le interacción
 ### Elementos del diseño de la interacción 
 Desde el diseño de la interacción se busca mejorar el funcionamiento del sitio web Aupa, de este modo es importante tener en cuenta que no todos los parámetros son necesarios para el sitio, pero si deben estudiarse todos para saber cual o cuales son los más pertinentes o adecuados para el éxito de la plataforma. De este modo sabemos que los elementos del diseño interactivo son: la comunicación persona maquina, acción/reacción, flujo de trabajo, estado y los errores o mal funcionamiento. 
 
@@ -56,11 +56,11 @@ Sin embargo si nos anteponemos a posibles fallos los pasos serían los siguiente
 
 #### Principios de organizacion 
 
-## Diagramacion (Angie)
+## Diagramación 
 Mediante la diagramación se quiere mostrar el diseño del sitio web y para ello la estructura que se usará será la conocida como “el árbol”, además, se visualizarán las etiquetas pensadas para cada una de las pestañas por el grupo de trabajo. 
 
-![uno](/Ej_uno.png) 
+![Diagrama uno](uno.png) 
 
-![dos](/Ej_dos.png)
+![Diagrama dos](dos.png)
 
 ## Referencias

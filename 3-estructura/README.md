@@ -1,5 +1,6 @@
 # Plano de estructura
 
+
 ## Introdución
 
 ## Diseño de le interacción
@@ -45,18 +46,30 @@ Sin embargo si nos anteponemos a posibles fallos los pasos serían los siguiente
 3. Clic en enter o en el icono de la lupa
 4. En caso de no haber resultados la pagina tendra un enunciado que dice “No se ha encontrado ningún resultado para “anuncios para Italianos” por favor cambie las palabras de búsqueda  para el enunciado o intentelo mas tarde”
 
+### Elementos del diseño de la interacción 
 
-### Elementos del diseno de la interaccion 
+## Arquitectura de la información (Estelle, Mégane, Lisandro)
 
-## Arquitectura de la informacion (Estelle, Mégane, Lisandro)
-
-### Estructurar el contenido
+### Estructura del contenido
 
 #### Enfoques de arquitectura
 
-#### Principios de organizacion 
+De los distintos enfoques, el que va en sintonía con la estructura de contenido es el
+de tipo jerárquica. 
+Este enfoque nos muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, lo importante es comprender que los niveles superiores deben guardar una estrecha relación con las necesidades del usuario.
 
-=======
+Podemos utilizar la forma de jerarquía que se llama anchas y superficiales, es cuando los usuarios pueden acceder a cada contenido pasando por una categoría. Por ejemplo, cada categoría tiene un contenido, si hay 10 contenidos, hara 10 categorías. Es la mejor opción, y para el sitio web es la forma más adecuada porque el público objetivo hablan muchas idiomas, es mejor para ellos de usar de un enfoque simple.
+Por ejemplo, en nuestra maqueta, podemos ver que en la pestaña “documento”, hay cinco categorías distintas, y necesita solo un clic para ir en cada categoría. El contenido será directamente en la pestaña, no hay otra pestaña en la categoría “Empadron” por ejemplo.
+
+![Ejemplo para Aupa](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/5345076350097ecea54e1abb462c109a77a82b31/3-estructura/estructura_ejemplo_aupa.png)
+*Fuente: elaboración propia*
+
+#### Principios de organización 
+
+Respecto a la organización de los nodos, el sitio va a disponer en la parte superior los elementos relacionados directamente a los principales objetivos del sitio web Aupa. Estos nodos deben tener un rápido y fácil acceso para los usuarios.
+
+Más abajo, se encuentran las páginas que les dan sentido a los nodos principales, en estos se encuentran los contenidos con la información que van a buscar los usuarios.
+
 #### Card Sorting 
 
 Para implementar la técnica del card sorting hemos decidido de hacer un Open Card Sorting (clasificación abierta de tarjeta) porque nuestro sitio web es nuevo y tenemos como objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar. En efecto, con este método los participantes obtienen tarjetas mostrando el contenido del sitio y deben clasificar las tarjetas en grupos que ellos elijan para luego describir cada grupo.
@@ -133,7 +146,7 @@ Lo que podemos concluir de este ejercicio muy interesante es que la prueba indiv
 ## Diagramación 
 Mediante la diagramación se quiere mostrar el diseño del sitio web y para ello la estructura que se usará será la conocida como “el árbol”, además, se visualizarán las etiquetas pensadas para cada una de las pestañas por el grupo de trabajo. 
 
-![Diagrama uno](uno.png) 
-
+![Diagrama uno](uno.png)
 ![Diagrama dos](dos.png)
+
 ## Referencias

@@ -1,8 +1,11 @@
 # Plano de estructura
 
-## Introdución
+## Introducción
+
+En esta parte exponemos lo del Diseño de la Interracción que facilita las tareas del usuario, definiendo cómo el usuario interactúa con la funcionalidad y lo de la Arquitectura de la Información que es el diseño estructural del espacio de información para facilitar el aceso intuitivo al contenido. 
 
 ## Diseño de le interacción
+
 ### Elementos del diseño de la interacción 
 Desde el diseño de la interacción se busca mejorar el funcionamiento del sitio web Aupa, de este modo es importante tener en cuenta que no todos los parámetros son necesarios para el sitio, pero si deben estudiarse todos para saber cual o cuales son los más pertinentes o adecuados para el éxito de la plataforma. De este modo sabemos que los elementos del diseño interactivo son: la comunicación persona maquina, acción/reacción, flujo de trabajo, estado y los errores o mal funcionamiento. 
 
@@ -45,8 +48,6 @@ Sin embargo si nos anteponemos a posibles fallos los pasos serían los siguiente
 3. Clic en enter o en el icono de la lupa
 4. En caso de no haber resultados la pagina tendra un enunciado que dice “No se ha encontrado ningún resultado para “anuncios para Italianos” por favor cambie las palabras de búsqueda  para el enunciado o intentelo mas tarde”
 
-### Elementos del diseño de la interacción 
-
 ## Arquitectura de la información (Estelle, Mégane, Lisandro)
 En esta parte, vamos a hablar de la arquitectura de la información en nuestra página web, y de la organización del contenido. 
 
@@ -59,6 +60,7 @@ Debido a que Aupa es un sitio con una audiencia particular, -inmigrantes forzado
 El plano de estrategia, evidenció que ser un medio ó puente entre los inmigrantes forzados y la comunidad del País Vasco representa un gran desafío ya que requiere una atención politemática, por ello y casi de forma natural se encontró que para estructurar el contenido, la mejor solución es aplicar una estructura “de Arriba a Abajo”, en la que se espera atender correctamente la necesidad de información de los usuarios y a posteriori del contenido que se pueda incorporar o complementar con el vigente. Bajo esta lógica, el sitio web va a tener unas categorías principales y de éstas, se desprenderán unas subcategorías de las cuales se podrá continuar ramificando en una relación de nodos (páginas) como padre-hijo.
 
 Ejemplo de estructura Arriba-Abajo:
+
 ![ejemplo](/3-estructura/ejemploarribaabajo.PNG)
 
 Ejemplo concreto para la organización de la página web Aupa (antes la prueba del card sorting): 
@@ -69,6 +71,7 @@ Entonces, en nuestro sitio web, vamos a utilizar esquemas exactos y ambiguos. En
 
 Finalmente, incluiremos esquemas ambiguos organizados por metáfora, la razón es importante destacar, las personas navegan por diferentes sitios buscando información relevante o que simplemente capten su atención e interés, todo eso ocurre en los primeros 10-20 segundos de navegación en el sitio web, entonces, para estimular al usuario a seguir explorando el sitio y mantener su motivación de permanencia se va a incluir en el área central las metáforas a través de imágenes que logren captar esta atención y que tengan  enlace a las páginas en donde se proporciona la información que los usuarios estén buscando. 
 Ejemplo:
+
 ![ejemplo](/3-estructura/ejemplometafora.PNG)
 
 #### Enfoques de arquitectura
@@ -167,6 +170,3 @@ Mediante la diagramación se quiere mostrar el diseño del sitio web y para ello
 
 ![Diagrama uno](uno.png)
 ![Diagrama dos](dos.png)
-
-
-## Referencias

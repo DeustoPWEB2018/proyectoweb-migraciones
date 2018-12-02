@@ -16,7 +16,11 @@ A continuación se muestra el resultado de este proceso.
 
 ### Buscador (Estelle)
 
+![Buscador](buscador.png)
+
 ### Contacto (Estelle)
+
+![Contacto](contactos.png)
 
 ### Foro 
 ![IMG1](/4-esqueleto/Wireframes.jpeg)

@@ -22,7 +22,7 @@ A continuación se muestra el resultado de este proceso.
 
 ### Páginas de similar diseño (Lisandro)
  
- Distintos wireframes con diferente niveles de detalle:
+ Wireframe con diferentes niveles de detalle:
 
  - **Wireframe 1**
 
@@ -37,8 +37,8 @@ A continuación se muestra el resultado de este proceso.
  ![Wireframe 3](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_3.jpg)
 
 
- #### Diseño de la interfaz
- 
+  **Diseño de la interfaz**
+
  Hay dos ejes importantes:
 
  *Simplicidad:* Tiene que entenderse fácilmente con un simple vistazo. Se debe contribuir en el diseño de la interfaz para que tanto los usuarios habituales como los nuevos puedan sentirse familiarizados con la página, la distribución de los elementos y las acciones que se pueden hacer de forma rápida para llegar al contenido que están buscando de la forma mas practica posible.
@@ -49,7 +49,7 @@ A continuación se muestra el resultado de este proceso.
 
  La calidad del diseño está dispuesta para mostrar una estética y diseño estándar para todos los artículos dentro de cada pestaña, esto ayuda en el proceso de familiarización con el sitio que experimenta el usuario.
 
- #### Diseño de la navegación
+  **Diseño de la navegación**
 
  El diseño de navegación será global, como se puede apreciar en el siguiente gráfico:
 
@@ -59,7 +59,7 @@ A continuación se muestra el resultado de este proceso.
 
  Para que el usuario sepa donde esta, la pestaña en donde se encuentra tendra una sombra para distinguirla del resto. Además, se coloca debajo del menú la ruta que ha tomado el usuario para llegar al articulo.
 
- #### Diseño de la información
+  **Diseño de la información**
 
  Para que los usuarios entiendan y usen fácilmente el sitio web, se va a ordenar la página de un artículo de forma estándar con una distribución de los elementos de información de la siguiente manera: barra de menú arriba, ruta de navegación debajo y más pequeño. Apenas debajo, en el centro el título del artículo con una letra destacada, debajo introducción, cuerpo del artículo, subtítulos, imagen/es y al final, acceso a link útiles o fuentes utilizadas.
 

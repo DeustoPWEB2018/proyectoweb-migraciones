@@ -24,6 +24,7 @@ A continuación se muestra el resultado de este proceso.
 
 #### Diseño de la interfaz
 Hay dos ejes importantes:
+
  *Simplicidad:* Tiene que entenderse fácilmente con un simple vistazo. Se debe contribuir en el diseño de la interfaz para que tanto los usuarios habituales como los nuevos puedan sentirse familiarizados con la página, la distribución de los elementos y las acciones que se pueden hacer de forma rápida para llegar al contenido que están buscando de la forma mas practica posible.
  *Coherencia:*  El sitio tiene un orden jerárquico en una relación padre-hijo entre las distintas páginas. Dado esto, la interfaz debe transmitir una comprensión clara de estas relaciones para aumentar la efectividad del usuario dentro de las páginas.
 

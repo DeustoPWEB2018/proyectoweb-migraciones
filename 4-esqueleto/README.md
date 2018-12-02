@@ -8,7 +8,11 @@
 
 ### Buscador (Estelle)
 
+![Buscador](buscador.png)
+
 ### Contacto (Estelle)
+
+![Contacto](contactos.png)
 
 ### Foro (Megane)
 

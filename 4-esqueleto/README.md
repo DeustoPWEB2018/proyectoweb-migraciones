@@ -21,11 +21,27 @@ A continuación se muestra el resultado de este proceso.
 ### Foro (Megane)
 
 ### Páginas de similar diseño (Lisandro)
+ 
+ Distintos wireframes con diferente niveles de detalle:
+ 
+ - **Wireframe 1**
+
+ ![Wireframe 1](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_1.jpg)
+
+ - **Wireframe 2**
+
+ ![Wireframe 2](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_2.jpg)
+
+ - **Wireframe 3**
+ 
+ ![Wireframe 3](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_3.jpg)
+
 
 #### Diseño de la interfaz
 Hay dos ejes importantes:
 
  *Simplicidad:* Tiene que entenderse fácilmente con un simple vistazo. Se debe contribuir en el diseño de la interfaz para que tanto los usuarios habituales como los nuevos puedan sentirse familiarizados con la página, la distribución de los elementos y las acciones que se pueden hacer de forma rápida para llegar al contenido que están buscando de la forma mas practica posible.
+
  *Coherencia:*  El sitio tiene un orden jerárquico en una relación padre-hijo entre las distintas páginas. Dado esto, la interfaz debe transmitir una comprensión clara de estas relaciones para aumentar la efectividad del usuario dentro de las páginas.
 
 Con la idea de anticipar los movimientos posibles de los usuarios dentro de un articulo, se deja en la parte superior el menú con las pestañas principales del sitio. 
@@ -36,7 +52,7 @@ La calidad del diseño está dispuesta para mostrar una estética y diseño est�
 
 El diseño de navegación será global, como se puede apreciar en el siguiente gráfico:
 
-IMAGEN
+![Navegación global](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4-Navegacion%20global.png)
 
 Esto ofrece al usuario la posibilidad de navegar desde el artículo actual a otro punto del sitio alojado dentro de la barra de menú o volver al comienzo cliqueando en el botón de “INICIO”. Para esto es fundamental que los hipervínculos funcionan perfectamente.
 

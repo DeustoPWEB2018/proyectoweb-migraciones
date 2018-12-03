@@ -13,6 +13,10 @@ En este documento se ha de desarrollar el plano esqueleto, para ello, primero se
 A continuación se muestra el resultado de este proceso.
 
 ### Página principal (Angie)
+Desde la página principal se pretende brindarle al usuario una navegación que sea intuitiva, fácil y comprensible. De este modo se ha desarrollado el plano para idealizar lo que será el sitio web de AUPA.  
+
+![Página principal uno](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/angie-esqueleto/4-esqueleto/pprincipal.png)
+![Página principal dos](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/angie-esqueleto/4-esqueleto/ppprincipal.png)
 
 ### Buscador (Estelle)
 

@@ -2,6 +2,8 @@
 
 ## Introducción (Lisandro)
 
+
+
 ## Guía de logotipo (Angie)
 
 ## Guía de color (Angie)

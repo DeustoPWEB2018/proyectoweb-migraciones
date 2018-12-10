@@ -1,11 +1,11 @@
 # Plano de alcance
 
-## Introducción (Angie)
+## Introducción
 Todo proyecto web requiere de objetivos, estrategias y metas claras para que sea un éxito. Debido a ello y por medio de este trabajo se desarrollarán las especificaciones funcionales de manera detallada y así ahorrar tiempo en la elaboración del diseño del nuestro proyecto denominado Aupa. 
 
 ## Especificaciones funcionales 
 
-### Página de inicio (Estelle)
+### Página de inicio
 
 Marta acabo de llegar en el sitio y se encuentra en la página de inicio. 
 

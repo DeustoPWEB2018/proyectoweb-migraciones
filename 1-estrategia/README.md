@@ -27,11 +27,12 @@ __*¿Cuál es el propósito de mi producto?*__
 
 Buscamos ser ese facilitador para los inmigrantes forzados que pueda brindarle un marco formal ó camino a seguir para resolver sus necesidades e inquietudes con el menor plazo de tiempo posible.
 De un modo simplificado, partiremos dando por sentado una situación común a todos los inmigrantes forzados la que denominaremos "punto cero" con la siguiente característica: inmigrante forzado que llega al Pais Vasco sin tener resuelto de antemano los papeles migratorios, alojamiento, alimentación, educación, trabajo, atención sanitaria, red de vínculos sociales, etc. Desde allí, existirán "x pasos", que prevén, facilitar el camino a seguir para la resolución ó superación de todas las necesidades que tienen hasta alcanzar el paso final que les permita la plena inserción en la comunidad vasca.
-Desglosar el proceso en pasos permitirá que cada inmigrante forzado pueda partir desde el paso que se adapte a su situación particular y luego si, continuar con los pasos que restan.
+Esta permitiria a los inmigrantes que quieren quedarse en el Pais Vasco de se integrar. Por ejemplo, buscar un trabajo, obtener la tarjeta de salud, buscar un alojamiento. 
+
 
 __*¿Quiénes son los clientes potenciales asociados con mi producto?*__
 
-El público al que nos dirigimos son migrantes entre 18 y 45 años que llegan al País Vasco. Nos hemos centrado en esta franja de edad, ya que según una encuesta realizada por el Gobierno Vasco en el año 2010 el 47% de los inmigrantes que llegan tienen entre 25 y 44 años, un 34% son menores de 25 años y tan solo el 19% son mayores de 45 años. Por esta razón, hemos concretado nuestro cliente potencial en este rango de edad, ya que además son las personas que más uso hacen de plataformas web, redes sociales y aplicaciones para móvil o tablets. 
+El público al que nos dirigimos son migrantes entre 25 y 45 años que llegan al País Vasco. Nos hemos centrado en esta franja de edad porque según una encuesta realizada por el Gobierno Vasco en el año 2010 el 47% de los inmigrantes que llegan tienen entre 25 y 44 años, un 34% son menores de 25 años y tan solo el 19% son mayores de 45 años. Por esta razón, hemos concretado nuestro cliente potencial en este rango de edad, ya que además son las personas que más uso hacen de plataformas web, redes sociales y aplicaciones para móvil o tablets.En esta franja de edad las necesidades basicas son las mismas: salud, trabajo, alojamiento por ejemplo. 
 
 __*¿Cómo puedo ganarme la confianza de estas personas por medio de mi producto?*__
 

@@ -19,16 +19,16 @@ Ahora Marta está descubriendo la barra de menú que se sitúa en la parte super
 
 ### Las pestañas 
 
-#### Comunidad (Estelle)
+#### Comunidad 
 
 Como el nombre lo indico, clicando en esta pestaña Marta puede encontrar informaciones en torno a la comunidad de inmigrantes del sitio Aupe. 
 Sobre todo, Marta está ya en País Vasco pero quiere saber cómo evoluciona la situación económica y política en su país, clicando en Venezuela, dentro Comunidad, Marta llega en una página que contiene las últimas noticias sobre su país de origen. 
 
-#### Entidades (Estelle)
+#### Entidades 
 
 En la pestaña “entidades” descubre todas las organizaciones que están en asociación con nuestro sitio. Son ciertas organizaciones públicas y organizaciones non gouvernementales como ACNUR, el Gobierno, ...
 
-#### Trámites (Lisandro)
+#### Trámites 
 Marta, entusiasmada con la página de Aupa, toma su mouse con gran curiosidad y se posiciona sobre la pestaña “Trámites”, en ese momento, se despliegan las opciones de trámites que se pueden realizar, para los cuales, según cual sea la necesidad de Marta, haciendo click sobre alguna de las opciones se direccionará para conocer los detalles.
 ##### Empadronamiento
 Una vez dentro de “empadronamiento”, Marta encontrará el detalle del siguiente contenido: ¿qué es el empadronamiento?, beneficios de hacerlo, requisitos y como es el trámite.
@@ -64,7 +64,7 @@ Como Marta querrá chequear la fuente de esta información, al final, encontrar�
 
 Dentro de la pestaña "Tramites", como sabemos que Marta es amante de Dora la exploradora, incluiremos una acceso a la pagina "DONDE", aquí, Marta podrá descubrir los lugares en que puede efectuar los trámites junto con unas fotos re cool de las dependencias públicas, información de contacto telefónico y su dirección.
 
-#### Servicios (Angie y Mégane)
+#### Servicios 
 
 Clicando en la pestaña servicios encontrarás la orientación que necesitas en temas como: sanidad, refugio, alimentación, educación, género y empleo. Donde cada una de esas pestañas te da la opción de clicar y al entrar allí, podrás encontrar la informacion u orientacion requerida que te orientará en dicho tema.
 
@@ -90,19 +90,19 @@ Clicando en la pestaña Género tendrá acceso a la información de centros o in
 
 Si Juan llega al País Vasco en busca de mejores oportunidades y brindarle a su familia una estabilidad económica, deberá clicar en la pestaña empleo y encontrará las ofertas que se ajusten a sus necesidades. 
 
-#### Foro (Estelle)
+#### Foro 
 
 Marta tiene muchas preguntas y quiere conocer las opiniones de los otros inmigrantes entonces clica en “Foro” arriba a la derecha. De esta manera puede discutir de lo que quiera con la comunidad de Aupe.
 
-#### Contacto (Estelle)
+#### Contacto 
 
 Ciclando en “Contacto” Marta quiere contactarnos porque tiene una pregunta sobre una de los entidades asociada. En la página va a llenar un formulario de contacto con su nombre, su apellido y su correo electrónico, para hacer su pregunta. 
 
-### Buscador (Estelle)
+### Buscador 
 
 Marta querría conocer los trámites a seguir para hacer una demanda de asilo pero no se recuerda como encontrarlo, así clica en la lupa del buscador arriba a la derecha y taclea “demanda de asilo” y hacer “enter”, está en la página donde hay todas las informaciones para demandar el asilo. 
 
-### Las idiomas (Estelle)
+### Las idiomas 
 
 Marta viene de Venezuela y por supuesto habla espanol pero su novio esta mas comodo con el ingles porque viene de América del Norte. Marta va a clicar en la pestaña “Idiomas” para cambiar la lengua y cuando el menú se abre clica en “Inglés”, el sitio se actualiza automáticamente. 
 
@@ -122,20 +122,20 @@ El público objetivo de Aupa se estableció mediante un análisis del origen, la
 
 Dentro de la plataforma de Aupa se observará principalmente la zonas de acogida y donde la organización tiene las alianzas, en este caso el País Vasco (San Sebastián, Irún, Bilbao y Vitoria). Por otra parte estará la barra de inicio donde se visualizarán los temas de mayor relevancia (comunidad, entidades,trámites, servicios, foro y contactos) y a partir de allí el usuario obtendrá la información requerida frente al tema consultado.
 
-##### Contenido página de inicio (Estelle)
+##### Contenido página de inicio 
 
 En esta pagina aparecera el logo y la barra de menú arriba con todas las pestañas del sitio. 
 También, cada ciudad de destinación dentro el País Vasco será visible desde esta pagina gracias a imagenes y la posibilidad de descubrir más sobre cada una de ellas. 
 
-##### Contenido comunidad (Estelle)
+##### Contenido comunidad 
 
 En esta pestaña habrá una sección por cada país de donde vienen los inmigrantes (Venezuela, Colombia y Nicaragua). Dentro cada sección podremos encontrar noticias actuales sobre el país. Entonces habrá textos, imágenes y videos ocasionalmente. 
 
-##### Contenido entidades (Estelle)
+##### Contenido entidades 
 
 Este pestana comprenderá una sección por cada entidad mencionada. Es decir, el ayuntamiento de Bilbao, el ayuntamiento de San-Sebastián, el ayuntamiento de Vitoria-Gasteiz, el Gobierno Vasco y la organización non gouvernementale ACNUR. Dentro habrá todas la informaciones sobre cómo las entidades pueden ayudar, que permiten y cómo actúan y también sus datos personales para contactarlas. 
 
-##### Contenido trámites (Lisandro)
+##### Contenido trámites 
 
 ###### Empadronamiento
 Aquí habrá 4 apartados, cada uno va a tener información en formato texto que responderán a los siguientes títulos:
@@ -194,7 +194,7 @@ Al final de la página de “Nacionalidad”, se debe incluir un último apartad
 ###### DONDE
 Aquí se va a especificar con formato de texto donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la dirección de cada lugar.
 
-##### Contenido servicios (Angie y Mégane)
+##### Contenido servicios 
 
 ##### Sanidad
 
@@ -220,12 +220,12 @@ En género se aloja la información de las entidades que trabajan en pro del bie
 
 Se conoce que la situación de los migrantes es de total vulnerabilidad y por ende en muchos casos sufren de explotación laboral. En la pestaña empleo los usuarios podrán encontrar los talleres y diversidad de formas de ganar dinero legalmente en el País Vasco. No obstante tendrán el link de acceso a dichas entidades.
 
-##### Contenido foro (Estelle)
+##### Contenido foro 
 
 El foro es creado básicamente para que los usuarios accedan y den su opinión sobre la información que se les brinda, es decir, si les ha servido para resolver inquietudes o si tienen algún reclamo, esto le permite a Aupa una constante retroalimentación dando pie al mejoramiento de la plataforma. 
 Se ha pensado en una estructura donde el usuario pueda ver las banderas de los diferentes países con los que trabaja Aupa y clicando en el país que él requiera puede unirse a uno de los foros. 
 
-##### Contenido contacto (Estelle)
+##### Contenido contacto 
 
 El usuario encontrará un formulario que deberá rellenar con su nombre, apellido, email entre otros datos, para que Aupa pueda comunicarse con él y resolver las inquietudes. 
 En esta página el usuario podrá encontrar la ubicación, el teléfono y las redes sociales de las entidades con las que Aupa tiene alianzas en el País Vasco.

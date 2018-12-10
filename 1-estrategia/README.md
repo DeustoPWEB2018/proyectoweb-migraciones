@@ -13,14 +13,15 @@ Ser referentes número uno para todos los refugiados e inmigrantes forzados que 
 
 __*¿Cómo veo mi producto?*__
 
-Queremos que Aupa sea un sitio web donde los migrantes puedan encontrar información útil para la acogida en el País Vasco, Además será una plataforma que les permita interactuar y contar sus experiencias al mismo tiempo que se van adaptando al entorno. 
+Queremos que Aupa sea un sitio web donde los migrantes puedan encontrar información útil para la acogida en el País Vasco, además será una plataforma que les permita interactuar y contar sus experiencias al mismo tiempo que se van adaptando al entorno. 
 
 __*¿Cómo quiero que sea el producto?*__
 
 El producto está pensado como una línea de tiempo.
+
 Nos referimos a una secuencia de pasos que tiene como punto de partida el momento en que los inmigrantes llegan al País Vasco, desde ahí, se da inicio a una serie de pasos que al ser completados, puedan lograr una plena inserción dentro de la comunidad.
 
-![Los pasos](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/85faae59c23aa3f2042f300a18d008d457ecc177/1-estrategia/pasos.png?raw=true)
+![Los pasos](pasos.png)
 
 __*¿Cuál es el propósito de mi producto?*__
 

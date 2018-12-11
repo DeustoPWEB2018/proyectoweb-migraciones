@@ -37,24 +37,24 @@ Algunas pautas:
 Inspirados en la guía de estilo de la University of East Anglia (UEA) se presentan las forma apropiada de tomar o seleccionar fotografías:
 
  - Tomar momentos espontáneos.
- ![Momentos espontáneos](momentos_espontaneos.png)
+ ![Momentos espontáneos](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8a46e48acd3215e3c35fe5196f452beba3133abd/5-superficie/Imagenes/momentos_espontaneos.png)
 
  - Capturar personas o lugares con el mismo estilo natural
- ![Estilo natural](estilo_natural.png)
+ ![Estilo natural](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8a46e48acd3215e3c35fe5196f452beba3133abd/5-superficie/Imagenes/estilo_natural.png)
 
  - Deje que los colores y tonos naturales de la imagen hablen por sí mismos.
- ![Tonos naturales](colores_y_tonos_naturales.png)
+ ![Tonos naturales](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8a46e48acd3215e3c35fe5196f452beba3133abd/5-superficie/Imagenes/colores_y_tonos_naturales.png)
 
 Que cosas no hacer:
  
  - No tomar fotografía de personas mirando directamente a la camara.
- ![Sin mirar directamente a la camara](sin_mirar_camara.png)
+ ![Sin mirar directamente a la camara](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8a46e48acd3215e3c35fe5196f452beba3133abd/5-superficie/Imagenes/sin_mirar_camara.png)
 
  - Agregar filtros o efectos innecesarios.
- ![Sin filtros innecesarios](no_usar_filtros.png)
+ ![Sin filtros innecesarios](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8a46e48acd3215e3c35fe5196f452beba3133abd/5-superficie/Imagenes/no_usar_filtros.png)
 
  - No usar colores duales de forma excesiva.
- ![No usar colores duales de forma excesiva](No_colores_duales.png)
+ ![No usar colores duales de forma excesiva](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8a46e48acd3215e3c35fe5196f452beba3133abd/5-superficie/Imagenes/No_colores_duales.png)
 
 ## Rejillas
 

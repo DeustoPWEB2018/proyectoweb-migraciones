@@ -34,18 +34,25 @@ Algunas pautas:
   - Personas mirando a la cámara
   - Cuando la fotografía sea de personas: ángulos y efectos inusuales.
 
-Manera apropiada de tomar o seleccionar fotografías:
+Inspirados en la guía de estilo de la University of East Anglia (UEA) se presentan las forma apropiada de tomar o seleccionar fotografías:
 
  - Tomar momentos espontáneos.
- - Capturar personas o lugares en el mismo sitio que se proyecta
+
+ - Capturar personas o lugares con el mismo estilo natural
+ 
+ - Deje que los colores y tonos naturales de la imagen hablen por sí mismos.
 
 Que cosas no hacer:
  
+ - No tomar fotografía de personas mirando directamente a la camara.
+ 
  - Agregar filtros o efectos innecesarios.
+ 
+ - No usar colores duales de forma excesiva.
 
 
 ## Rejillas
 
 ## Referencias
 
- - Guía de estilo de la University of East Anglia (UEA): https://assetbank.uea.ac.uk/assetbank-uea/assetfile/16641.pdf 
+ - Guía de estilo de la UEA: https://assetbank.uea.ac.uk/assetbank-uea/assetfile/16641.pdf 

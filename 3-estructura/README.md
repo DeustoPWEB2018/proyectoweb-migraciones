@@ -48,7 +48,7 @@ Sin embargo si nos anteponemos a posibles fallos los pasos serían los siguiente
 3. Clic en enter o en el icono de la lupa
 4. En caso de no haber resultados la pagina tendra un enunciado que dice “No se ha encontrado ningún resultado para “anuncios para Italianos” por favor cambie las palabras de búsqueda  para el enunciado o intentelo mas tarde”
 
-## Arquitectura de la información (Estelle, Mégane, Lisandro)
+## Arquitectura de la información
 En esta parte, vamos a hablar de la arquitectura de la información en nuestra página web, y de la organización del contenido. 
 
 ### Estructura del contenido

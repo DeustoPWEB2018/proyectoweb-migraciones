@@ -37,19 +37,24 @@ Algunas pautas:
 Inspirados en la guía de estilo de la University of East Anglia (UEA) se presentan las forma apropiada de tomar o seleccionar fotografías:
 
  - Tomar momentos espontáneos.
+ ![Momentos espontáneos]()
 
  - Capturar personas o lugares con el mismo estilo natural
- 
+ ![Estilo natural]()
+
  - Deje que los colores y tonos naturales de la imagen hablen por sí mismos.
+ ![Tonos naturales]()
 
 Que cosas no hacer:
  
  - No tomar fotografía de personas mirando directamente a la camara.
- 
- - Agregar filtros o efectos innecesarios.
- 
- - No usar colores duales de forma excesiva.
+ ![Sin mirar directamente a la camara]()
 
+ - Agregar filtros o efectos innecesarios.
+ ![Sin filtros innecesarios]()
+
+ - No usar colores duales de forma excesiva.
+ ![No usar colores duales de forma excesiva]()
 
 ## Rejillas
 

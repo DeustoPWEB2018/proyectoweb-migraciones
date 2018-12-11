@@ -2,7 +2,7 @@
 
 ## Wireframes de las páginas de Aupa
 
-### Introducción (Lisandro)
+### Introducción
 
 En este documento se ha de desarrollar el plano esqueleto, para ello, primero se detectan y definen las páginas del sitio web Aupa, luego se realiza un wireframe por cada una y por último abordando cada una de las páginas con la perspectiva de los tres tipos de diseños:
 
@@ -12,13 +12,13 @@ En este documento se ha de desarrollar el plano esqueleto, para ello, primero se
 
 A continuación se muestra el resultado de este proceso.
 
-### Página principal (Angie)
+### Página principal
 
-### Buscador (Estelle)
+### Buscador 
 
 ![Buscador](buscador.png)
 
-### Contacto (Estelle)
+### Contacto 
 
 ![Contacto](contactos.png)
 
@@ -29,22 +29,13 @@ En la segunda imagen, podemos ver la pagina principal de la pestaña “foro”.
 Para la interfaz, será una interfaz muy simple y para la navegación, será muy fácil, podremos ver los sujetos del foro, el numero de vistas y de posts serán visibles. 
 En la primera, es la pagina que los usuarios podrán ver cuando van a hacer click en un sujeto. La navegación va a ser muy simple como podremos ver en la imagen.
 
-### Páginas de similar diseño (Lisandro)
+### Páginas de similar diseño 
  
  Wireframe con diferentes niveles de detalle:
 
- - **Wireframe 1**
-
- ![Wireframe 1](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_1.jpg)
-
- - **Wireframe 2**
-
- ![Wireframe 2](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_2.jpg)
-
- - **Wireframe 3**
+ - **Wireframe**
  
- ![Wireframe 3](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_3.jpg)
-
+ ![Wireframe](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_3.jpg)
 
   **Diseño de la interfaz**
 

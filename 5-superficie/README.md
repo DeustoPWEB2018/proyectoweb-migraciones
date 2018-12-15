@@ -12,4 +12,8 @@
 
 ## Rejillas (Estelle)
 
+![Pagina de inicio](rejillas1.png)
+
+![Pagina de articulo](rejillas2.png)
+
 ## Referencias

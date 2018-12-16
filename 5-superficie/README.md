@@ -13,28 +13,28 @@ El logo es uno de los elementos más importantes que tiene una organización y p
 
  1. El logotipo de AUPA inicialmente tendrá una versión para todas las páginas de la plataforma.
  
- ![Logo1](5-superficie/Imagenes/Aupa_1.png)
+ ![Logo1](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_1.png)
 
  2. El logo tendrá tres presentaciones en cuanto a color y será válido su uso en cualquier momento o lugar en la plataforma.
  
- ![Logo2](5-superficie/Imagenes/Aupa_2.png)
- ![Logo3](5-superficie/Imagenes/Aupa_3.png)
- ![Logo4](5-superficie/Imagenes/Aupa_4.png)
+ ![Logo2](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_2.png)
+ ![Logo3](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_3.png)
+ ![Logo4](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_4.png)
 
  3. Tamaño
  
- ![Logo5](5-superficie/Imagenes/Aupa_5.png)
+ ![Logo5](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_5.png)
 
  4. Márgenes
  
- ![Logo6](5-superficie/Imagenes/Aupa_6.png)
+ ![Logo6](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_6.png)
 
  5. Usos incorrectos: 
  
  Actualmente no se consideran ejemplos erróneos para el logo de AUPA. De modo que no se puede cambiar ningún color que no esté especificado u otras opciones de logo que no sean las anteriormente vistas. Ejemplo:
 
- ![Logo7](5-superficie/Imagenes/Aupa_7.png)
- ![Logo8](5-superficie/Imagenes/Aupa_8.png)
+ ![Logo7](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_7.png)
+ ![Logo8](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_8.png)
 
 ## Guía de color 
 
@@ -43,11 +43,11 @@ En este apartado del proyecto veremos un prototipo del sitio y especificaremos e
 
 Paleta de colores base para la plataforma AUPA
 
-![Paleta de colores](5-superficie/Imagenes/Aupa_9.png)
+![Paleta de colores](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_9.png)
 
 Usando los conceptos teóricos vistos, la paleta de Aupa estará basada en el esquema de colores análogos los cuales se representan en la siguiente imagen, además los colores que aquí se muestran son para uso de apoyo: 
 
-![Paleta de colores 2](5-superficie/Imagenes/Aupa_10.png)
+![Paleta de colores 2](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_10.png)
 
 A continuación se mostrará la HomePage de Aupa con el fin de dar a conocer la aplicación de los colores seleccionados y la manera correcta de representar el logo: 
 - La barra de inicio es de color azul rey (esto aplica para todas las páginas)
@@ -55,7 +55,7 @@ A continuación se mostrará la HomePage de Aupa con el fin de dar a conocer la 
 - El logo de igual modo se podrá ver del mismo color y tamaño en todas las páginas. 
 - Los colores de la paleta Kuler se usarán de apoyo en cuanto a la división de categorías o contenido dentro de las páginas de las etiquetas principales. Sin embargo, son de uso libre. 
 
-![Pagina_Aupa](5-superficie/Imagenes/Aupa_11.png)
+![Pagina_Aupa](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/37b3268138399e2d3b7f0af8f03049dfbe11e662/5-superficie/Imagenes/Aupa_11.png)
 
 ## Guía de fuente 
 

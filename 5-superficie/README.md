@@ -12,7 +12,7 @@ La fuente es muy importante en el sitio web para la legibilidad y la accesibilid
 
 Elegimos la fuente ROBOTO, que es una fuente sin serifa, que mejora la legibilidad del texto. Hay diferentes manera de utilizar la fuente Roboto. Vamos a utilizar estas tres maneras para nuestro sitio web porque es muy simple, práctico y legible. Entonces, aquí las diferencias:
 
-![FUENTE](aupatipo2.png)
+![FUENTE](aupatipo2.PNG)
 
 Nos permite de crear una jerarquía : 
 
@@ -32,7 +32,7 @@ Los contenidos en 14
 
 Ejemplo más concreto :
 
-![FUENTE](aupatipo1.png)
+![FUENTE](aupatipo1.PNG)
 
 
 ## Guía para gráficos y/o fotografías (Lisandro)

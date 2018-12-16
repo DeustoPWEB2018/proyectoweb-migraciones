@@ -1,16 +1,16 @@
 # Plano de superficie
 
-## Introducción (Lisandro)
+## Introducción 
 
-## Guía de logotipo (Angie)
+## Guía de logotipo
 
-## Guía de color (Angie)
+## Guía de color
 
-## Guía de fuente (Mégane)
+## Guía de fuente
 
-## Guía para gráficos y/o fotografías (Lisandro)
+## Guía para gráficos y/o fotografías 
 
-## Rejillas (Estelle)
+## Rejillas
 
 El sitio web va a estar basado sobre el sistema de la rejilla de doce unidades. Lo que no cambiará de disposición es el logo con la barra de menú y las pestañas y también el pie de página. 
 

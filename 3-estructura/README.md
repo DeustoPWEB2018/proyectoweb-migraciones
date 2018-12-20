@@ -69,7 +69,7 @@ Y por otra parte, esquemas ambiguos, organizados por tema. Esto es apropiado par
 
 Finalmente, incluiremos esquemas ambiguos organizados por metáfora, la razón es importante destacar, las personas navegan por diferentes sitios buscando información relevante o que simplemente capten su atención e interés, todo eso ocurre en los primeros 10-20 segundos de navegación en el sitio web, entonces, una manera de captar su atención es a través del diseño sugerente de algunas funciones, por ejemplo, en lugar de poner la palabra ‘Buscador’, se va a utilizar una “Lupa”, en lugar de escribir la palabra inicio se va a poner el Logo del sitio al nivel de la barra de menú para volver a empezar la navegación. También se utilizarán los logos de las redes sociales en que el sitio web está presente en lugar de definir el acceso escribiendo la palabra de cada una.
 
-#### Enfoques de arquitectura
+### Enfoques de arquitectura
 
 De los distintos enfoques, el que va en sintonía con la estructura de contenido es elde tipo jerárquica. 
 Este enfoque muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, toma importancia definir y comprender bien los niveles superiores y que éstos guarden una estrecha relación con las necesidades que el usuario intentará satisfacer.
@@ -81,7 +81,7 @@ Se va a utilizar como forma de jerarquía las denominadas "anchas y superficiale
 
 En este ejemplo, podemos ver que en la pestaña “Documentos”, hay cinco temas distintos y que se necesita solo un clic para ir dentro de cada uno. El contenido va a estar directamente enlazado a cada tema. En caso de que más adelante, de uno de estos se desprendan dos o más subtemas, se va a desplegar un columna a la derecha con la lista de subtemas y así sucesivamente.
 
-#### Card Sorting 
+### Card Sorting 
 
 Para implementar la técnica del card sorting hemos decidido de hacer un Open Card Sorting (clasificación abierta de tarjeta) porque nuestro sitio web es nuevo y tenemos como objetivo de descubrir qué tipo de clasificación de categorías sería más correcto utilizar. En efecto, con este método los participantes obtienen tarjetas mostrando el contenido del sitio y deben clasificar las tarjetas en grupos que ellos elijan para luego describir cada grupo.
 

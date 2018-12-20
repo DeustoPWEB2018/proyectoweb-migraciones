@@ -72,7 +72,7 @@ Finalmente, incluiremos esquemas ambiguos organizados por metáfora, la razón e
 #### Enfoques de arquitectura
 
 De los distintos enfoques, el que va en sintonía con la estructura de contenido es elde tipo jerárquica. 
-Este enfoque muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, toma importancia definir y comprender bien los niveles superiores y que éstos guarden una estrecha relación con las necesidades del usuario.
+Este enfoque muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, toma importancia definir y comprender bien los niveles superiores y que éstos guarden una estrecha relación con las necesidades que el usuario intentará satisfacer.
 
 Se va a utilizar como forma de jerarquía las denominadas "anchas y superficiales", que es cuando los usuarios pueden acceder a cada contenido pasando por una categoría. Ejemplo, cada categoría tiene un contenido, si hay 5 contenidos, habrá 5 categorías.
 
@@ -80,12 +80,6 @@ Se va a utilizar como forma de jerarquía las denominadas "anchas y superficiale
 *Fuente: elaboración propia*
 
 En este ejemplo, podemos ver que en la pestaña “Documentos”, hay cinco temas distintos y que se necesita solo un clic para ir dentro de cada uno. El contenido va a estar directamente enlazado a cada tema. En caso de que más adelante, de uno de estos se desprendan dos o más subtemas, se va a desplegar un columna a la derecha con la lista de subtemas y así sucesivamente.
-
-#### Principios de organización 
-
-Respecto a la organización de los nodos, el sitio va a disponer en la parte superior los elementos relacionados directamente a los principales objetivos del sitio web Aupa. Estos nodos deben tener un rápido y fácil acceso para los usuarios.
-
-Más abajo, se encuentran las páginas que les dan sentido a los nodos principales, en estos se encuentran los contenidos con la información que van a buscar los usuarios.
 
 #### Card Sorting 
 

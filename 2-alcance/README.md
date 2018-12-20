@@ -199,19 +199,24 @@ Propietario del contenido: El sitio web Aupa.
 
 ## Referencias
 
-Especificaciones funcionales sin esfuerzo, partes 1-3
+**Especificaciones funcionales sin esfuerzo, partes 1-3**
 Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo
 
 - [Parte 1: ¿Por qué molestarse?](https://web.archive.org/web/20171220105222/http://spanish.joelonsoftware.com:80/PainlessSpecs/1.html)
 - [Parte 2: ¿Qué es una especificación?](https://web.archive.org/web/20171230033908/http://spanish.joelonsoftware.com:80/PainlessSpecs/2.html)
 - [Parte 3: Pero... ¿cómo?](https://web.archive.org/web/20171220104503/http://spanish.joelonsoftware.com:80/PainlessSpecs/3.html)
 
-Especificaciones funcionales sin esfuerzo, parte 4
+**Especificaciones funcionales sin esfuerzo, parte 4**
 Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo
+
 - [Parte 4: Consejos](https://web.archive.org/web/20171220104805/http://spanish.joelonsoftware.com:80/PainlessSpecs/4.html)
-QuéHoraEs.com, especificación funcional de ejemplo
-Estrategia de contenidos
-Kristina Halvorson y Melissa Rach (2012), "Chapter 8. Content" en Content Strategy for the Web, Second Edition.
-New Riders: Berkeley, California. En biblioteca: 681.374.13/H15k
-Slow content
-Carlos J. Campo (2013), Cambie de tendencia y apúntese al movimiento Slow Content ([parte I](https://www.estrategiadelcontenido.com/post.php?pag=cambie_tendencia_apuntese_al_movimiento_slow_content) y [parte II](https://www.estrategiadelcontenido.com/post.php?pag=cambie_tendencia_apuntese_al_movimiento_slow_content_ii)) 
+- QuéHoraEs.com, especificación funcional de ejemplo
+
+**Estrategia de contenidos**
+
+- Kristina Halvorson y Melissa Rach (2012), "Chapter 8. Content" en Content Strategy for the Web, Second Edition.
+- New Riders: Berkeley, California. En biblioteca: 681.374.13/H15k
+
+**Slow content**
+
+- Carlos J. Campo (2013), Cambie de tendencia y apúntese al movimiento Slow Content ([parte I](https://www.estrategiadelcontenido.com/post.php?pag=cambie_tendencia_apuntese_al_movimiento_slow_content) y [parte II](https://www.estrategiadelcontenido.com/post.php?pag=cambie_tendencia_apuntese_al_movimiento_slow_content_ii)) 

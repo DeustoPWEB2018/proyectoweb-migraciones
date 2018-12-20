@@ -53,7 +53,7 @@ Sin embargo si nos anteponemos a posibles fallos los pasos serían los siguiente
 4. En caso de no haber resultados la pagina tendra un enunciado que dice “No se ha encontrado ningún resultado para “anuncios para Italianos” por favor cambie las palabras de búsqueda  para el enunciado o intentelo mas tarde”
 
 ## Arquitectura de la información
-En esta parte, vamos a hablar de la arquitectura de la información en nuestra página web, y de la organización del contenido. 
+En esta parte, se va adentrar en la arquitectura de la información del la página web Aupa y de la organización de su contenido. 
 
 ### Estructura del contenido
 
@@ -63,24 +63,23 @@ Debido a que Aupa es un sitio con una audiencia particular, -inmigrantes forzado
 
 El plano de estrategia, evidenció que ser un medio ó puente entre los inmigrantes forzados y la comunidad del País Vasco representa un gran desafío ya que requiere una atención politemática, por ello y casi de forma natural se encontró que para estructurar el contenido, la mejor solución es aplicar una estructura “de Arriba a Abajo”, en la que se espera atender correctamente la necesidad de información de los usuarios y a posteriori del contenido que se pueda incorporar o complementar con el vigente. Bajo esta lógica, el sitio web va a tener unas categorías principales y de éstas, se desprenderán unas subcategorías de las cuales se podrá continuar ramificando en una relación de nodos (páginas) como padre-hijo.
 
-Entonces, en nuestro sitio web, vamos a utilizar esquemas exactos y ambiguos.
+Entonces, en el sitio web, se va a utilizar esquemas exactos y ambiguos.
 En efecto, vamos a utilizar un esquema geográfico, por ejemplo, a la hora de desagregar las entidades de manera que el usuario pueda considerar la información pertinente más cercana a donde se encuentra. 
-Y por otra parte, esquemas ambiguos, organizados por tema. Este es apropiado para el sitio web ya que la información que se genera para las pestañas, más precisamente, la de “Trámites” y dentro de la misma, según las secciones de modo tal que el usuario pueda sacar el máximo provecho de la información para ayudarle a cumplir sus objetivos. 
+Y por otra parte, esquemas ambiguos, organizados por tema. Esto es apropiado para el sitio web ya que la información que se genera para las pestañas, más precisamente, la de “Trámites” y dentro de la misma, según las secciones de modo tal que el usuario pueda sacar el máximo provecho de la información para ayudarle a cumplir sus objetivos. 
 
 Finalmente, incluiremos esquemas ambiguos organizados por metáfora, la razón es importante destacar, las personas navegan por diferentes sitios buscando información relevante o que simplemente capten su atención e interés, todo eso ocurre en los primeros 10-20 segundos de navegación en el sitio web, entonces, una manera de captar su atención es a través del diseño sugerente de algunas funciones, por ejemplo, en lugar de poner la palabra ‘Buscador’, se va a utilizar una “Lupa”, en lugar de escribir la palabra inicio se va a poner el Logo del sitio al nivel de la barra de menú para volver a empezar la navegación. También se utilizarán los logos de las redes sociales en que el sitio web está presente en lugar de definir el acceso escribiendo la palabra de cada una.
 
 #### Enfoques de arquitectura
 
-De los distintos enfoques, el que va en sintonía con la estructura de contenido es el
-de tipo jerárquica. 
-Este enfoque nos muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, lo importante es comprender que los niveles superiores deben guardar una estrecha relación con las necesidades del usuario.
+De los distintos enfoques, el que va en sintonía con la estructura de contenido es elde tipo jerárquica. 
+Este enfoque muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, toma importancia definir y comprender bien los niveles superiores y que éstos guarden una estrecha relación con las necesidades del usuario.
 
-Podemos utilizar la forma de jerarquía que se llama anchas y superficiales, es cuando los usuarios pueden acceder a cada contenido pasando por una categoría. Por ejemplo, cada categoría tiene un contenido, si hay 10 contenidos, habrá 10 categorías.
-
-En este ejemplo, podemos ver que en la pestaña “Documentos”, hay cinco temas distintos y que se necesita solo un clic para ir dentro de cada uno. El contenido va a estar directamente enlazado a cada tema. En caso de que más adelante, de uno de estos se desprendan dos o más subtemas, se va a desplegar una segunda columna a la derecha con la lista de subtemas y así sucesivamente.
+Se va a utilizar como forma de jerarquía las denominadas "anchas y superficiales", que es cuando los usuarios pueden acceder a cada contenido pasando por una categoría. Ejemplo, cada categoría tiene un contenido, si hay 5 contenidos, habrá 5 categorías.
 
 ![Ejemplo para Aupa](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/5345076350097ecea54e1abb462c109a77a82b31/3-estructura/estructura_ejemplo_aupa.png)
 *Fuente: elaboración propia*
+
+En este ejemplo, podemos ver que en la pestaña “Documentos”, hay cinco temas distintos y que se necesita solo un clic para ir dentro de cada uno. El contenido va a estar directamente enlazado a cada tema. En caso de que más adelante, de uno de estos se desprendan dos o más subtemas, se va a desplegar un columna a la derecha con la lista de subtemas y así sucesivamente.
 
 #### Principios de organización 
 

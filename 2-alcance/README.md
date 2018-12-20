@@ -1,286 +1,209 @@
-# Plano de alcance
+# Plano de Alcance
 
-## Introducción
-Todo proyecto web requiere de objetivos, estrategias y metas claras para que sea un éxito. Debido a ello y por medio de este trabajo se desarrollarán las especificaciones funcionales de manera detallada y así ahorrar tiempo en la elaboración del diseño del nuestro proyecto denominado Aupa. 
+En el presente apartado se abordará la estructura del plano de alcance para el sitio web Aupa. Los temas a tratar para lograr tal fin son: la especificación funcional, los requerimientos de contenido, la estructura y las tablas de página.
 
-## Especificaciones funcionales 
+## 1. Especificación funcional
 
-### Página de inicio
+Con la especificación funcional se pretende por un lado, anticipar el comportamiento que tendrá el usuario en el sitio web y segundo atender de forma integral sus demandas para para facilitar el cumplimiento de los objetivos.
+Para ello, se va a fijar la barra de inicio con las pestañas principales del sitio web entre las cuales va a encontrar una llamada “Trámites” con acceso a páginas con artículos vinculados a documentación, sanidad, educación, alimentos, refugio, entre otros. 
+Al mismo nivel, el usuario podrá hacer click en otras pestañas como “Quienes somos” para conocer al staff que está administrando el sitio web, “Foro” para interactuar con la comunidad de Aupa bien leyendo temas generados por otros o bien publicando sus dudas, consultas e información con la comunidad. Otra función disponible ha de ser la pestaña “Idiomas” para elegir el lenguaje de texto que le resulte más cómodo. Por último en la barra de inicio se va a ofrecer un “Buscador” avanzado para filtrar el contenido en función del interés del usuario. 
+En la misma página de inicio, el usuario va a poder acceder a las entidades en que se pueden hacer trámites, las redes sociales de la página y una función que le permita contactarse directamente con los administradores del sitio web.
 
-Marta acabo de llegar en el sitio y se encuentra en la página de inicio. 
+### 1.1  General
 
-#### Logo 
+El sitio web Aupa, es un medio entre los inmigrantes forzados y el País Vasco. Desde este lugar se busca reducir la brecha de adaptación por el que tiene que pasar el público objetivo a la hora de insertarse en esta sociedad. 
+El contenido que se encuentre sobre el sitio tendrá en todo momento a este tipo particular de usuario en el centro de la atención. El servicio que se ofrece no es aleatorio ni es casual, guarda estrecha relación con las necesidades concretas que tiene un inmigrantes forzado que busca establecerse de manera permanente en el País Vasco luego de abandonar su tierra para empezar de cero en este nuevo lugar. 
+Para esto, el sitio va a contar con dos perfiles bien marcados, el administrador y el usuario. El primero es encargado de revisar el contenido del sitio y actualizarlo, entre otras funciones que veremos más adelante, y el segundo (el usuario) tendrá acceso a todo el contenido del sitio web siempre dirigido a inmigrantes forzados, incluido el foro donde podrá no solo explorar las dudas y consultas de otros usuarios sino también generar nuevas entradas para consultas o dudas propias que desea compartir con la comunidad que navega en Aupa.
 
-Marta está perdida en el sitio y quiere volver a la página de inicio, solo tiene que clicar en el logo arriba a la izquierda para volver a ella. Puede ver el logo durante toda su navegación en el sitio. 
+### 1.2  Situación de uso – Escenarios
 
-#### Barra de menú 
+Escenario 1: Yoselin y sanidad 
+Yoselin se encuentra en la casa de un compatriota, con un cuadro febril y sentada en un sillón tomando un vaso de agua para hidratarse se dispone a través de un smartphone que le prestó el mismo compatriota, a buscar en la página de Aupa información acerca de cómo obtener asistencia sanitaria. Para su sorpresa, además de encontrar un artículo escrito de forma clara y en un lenguaje amigable, comprueba que el mismo artículo cuenta con un mapa sobre el lugar más cercano a donde acudir. A pesar de que Yoselin suele ser un poco desconfiada de la información que suele encontrar por internet, en este caso, le tranquilizó ver los link de acceso a los documentos oficiales con la misma información pero en un lenguaje más técnico y formal. Ahora Yoselin entiende bien en qué consiste el trámite, los requisitos que le pedirán, la ubicación del dispensario y los horarios de atención.
 
-Ahora Marta está descubriendo la barra de menú que se sitúa en la parte superior del sitio. Observa que cuando pasa su ratón en las pestañas, un menú desplegable se abre cada vez. De la misma manera que el logo, la barra de menú aparece todo el tiempo en la página, está anclada en la parte superior. Entonces Marta puede encontrar las pestañas siguientes : Comunidad, Entidades, Trámites, Servicios, Foro, Contacto y Idiomas. 
+Escenario 2: Eduardo y educación
+Eduardo ésta hace 3 meses en Irun, tiempo en el que ha podido hacer algunas amistades pero sin suerte aún para poder trabajar debido a que le solicitan un certificado que si bien lo completo en su país de origen no le vale aquí. Un día, estaba en medio de una conversación con un amigo que pasaba por la misma situación, cuando éste le muestra que dentro del Foro de Aupa, una persona compartió una entrada con la información de un curso de formación en carpintería ofrecido por el ayuntamiento para inmigrantes forzados, Eduardo y su amigo quedaron con la boca abierta. Sin creer lo que estaban viendo, siguieron leyendo y más abajo encontraron que otros 5 usuarios ya habían contestado a la entrada en cuestión, agregando más información ó simplemente comentando lo bueno que estaba el curso. A la noche, cuando Eduardo llega a la habitación que comparte con otras 3 personas, se puso a explorar con su ordenador con más detenimiento la página web de Aupa y encontró gracias al buscador avanzado que había muchos resultados para las palabras “cursos en Irun”, exactamente 7 artículos. Así se pasó un buen rato viendo no solo más información sobre el curso que antes habían encontrado en el Foro, sino otros cursos que le resultaban interesante.
 
-### Las pestañas 
+Escenario 3: Marta indocumentada
 
-#### Comunidad 
-
-Como el nombre lo indico, clicando en esta pestaña Marta puede encontrar informaciones en torno a la comunidad de inmigrantes del sitio Aupe. 
-Sobre todo, Marta está ya en País Vasco pero quiere saber cómo evoluciona la situación económica y política en su país, clicando en Venezuela, dentro Comunidad, Marta llega en una página que contiene las últimas noticias sobre su país de origen. 
-
-#### Entidades 
-
-En la pestaña “entidades” descubre todas las organizaciones que están en asociación con nuestro sitio. Son ciertas organizaciones públicas y organizaciones non gouvernementales como ACNUR, el Gobierno, ...
-
-#### Trámites 
-Marta, entusiasmada con la página de Aupa, toma su mouse con gran curiosidad y se posiciona sobre la pestaña “Trámites”, en ese momento, se despliegan las opciones de trámites que se pueden realizar, para los cuales, según cual sea la necesidad de Marta, haciendo click sobre alguna de las opciones se direccionará para conocer los detalles.
-##### Empadronamiento
-Una vez dentro de “empadronamiento”, Marta encontrará el detalle del siguiente contenido: ¿qué es el empadronamiento?, beneficios de hacerlo, requisitos y como es el trámite.
-Ahora, si Marta se pone juguetona con el mouse, sobre el subtítulo “Donde” abrá un direccionador a una página con los lugares disponibles para hacer el trámite (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irun) con la dirección, teléfono y/o mail de contacto, esta página “Dónde” será común a todas las páginas dentro de la sección “Trámites”.
-Al final de la página de Empadronamiento, Marta chequear y ampliar información con el link de acceso al sitio pertinente de la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi.
-##### Residencia
-Si Marta decide explorar esta sección, haciendo click, se desplegarán dos opciones: Residencia transitoria y Residencia Permanente. Accederá a uno de ambos según su necesidad.
-###### Transitoria 
-Dentro de residencia transitoria, Marta con un té de limón en la mano, podrá leer una introducción y ver las distintas residencias a las que puede aplicar ( Aclaración: en el caso de la residencia permanente, si Marta hace click, será redireccionada a Residencia Permanente dentro de la sección correspondiente de la página de Aupa), cada una con un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi.
-###### Permanente
-Dentro de Residencia Permanente, Marta podrá leer acerca de los requisitos.
-Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá comprar las frutas en su lugar favorito y encontrar también el sitio más cercano a su domicilio para hacer esta gestión.
-Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
-##### Demanda de asilo
-En caso de que Marta haya arribado a Euskadi atravesada por una situaciones de fuerza mayor, encontrará haciendo click sobre “Demanda de asilo” un página con una pequeña introducción acerca de los casos en que se estima se puede solicitar asilo en el País Vasco. En la misma página encontrara dos accesos a los que podrá acceder según su necesidad haciendo click:
-###### Asilo y refugio
-Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción.
+En caso de que Marta haya arribado a Euskadi atravesada por una situaciones de fuerza mayor, conectando su tablet a la red de wifi libre de Donostia, podrá una vez dentro del sitio web Aupa acceder haciendo click sobre “Demanda de asilo” a una página con un título sugerente al trámite, una introducción acerca de los casos en que se prevé se puede solicitar asilo en el País Vasco. En la misma página encontrara dos accesos a los que podrá acceder según su necesidad haciendo click:
+ 
+Asilo y refugio
+Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción sobre el tema. En el artículo Marta podrá darle play a un video mas grafico sobre el pedido de asilo y refugio, los derechos de las personas para solicitar el mismo en los casos justificados.
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
-###### Circunstancias excepcionales ó humanitarias
-Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción. Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
-Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
-##### Reunificación familiar
-Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción. 
-Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para efectuar el trámite (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los bellos lugares alrededor de la dependencia pública.
-Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
-##### Nacionalidad
-Marta, con algo de acento español y luego de probar algunos típicos pintxos vascos, si lo que necesita es tramitar la nacionalidad española, deberá hacer click en este apartado. Una vez en la página, encontrará una introducción acerca de las circunstancias y requisitos para solicitar la nacionalidad.
-Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para efectuar el trámite (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los bellos lugares alrededor de la dependencia pública.
+
+Circunstancias excepcionales ó humanitarias
+Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción del tema. En caso de que Marta llegó a este apartado por error, va a poder hacer click para volver a demanda de asilo y refugio, también a la sección de trámites o empezar de nuevo en la página de inicio del sitio web.
+Además de leer más acerca del trámite, Marta podrá reproducir un video que explica con más detalles en qué consiste el trámite.
+Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 
-##### DONDE
+### 1.3  No objetivos
 
-Dentro de la pestaña "Tramites", como sabemos que Marta es amante de Dora la exploradora, incluiremos una acceso a la pagina "DONDE", aquí, Marta podrá descubrir los lugares en que puede efectuar los trámites junto con unas fotos re cool de las dependencias públicas, información de contacto telefónico y su dirección.
+El sitio web no contará con los siguientes servicios:
+Login y registro. Al estar dirigida a un público específico como son los inmigrantes forzados, no parece apropiado ofrecer el registro y la creación de una cuenta de usuario que los obligue a proveer información que pueden querer mantener en un estado reservado. Por ello, el contenido será abierto y de acceso público, en el caso de los foros por ejemplo, el usuario podrá utilizar seudónimos y proveer el mail que desee para enterarse a futuro las novedades sobre la entrada creada o en la que há participado.
+Suscripción de pago para ningún servicio que se brinda en la página.
+Una sede física del sitio web para el contacto personal de los usuarios.
 
-#### Servicios 
+###  1.4 Explicación de usuarios y de uso
 
-Clicando en la pestaña servicios encontrarás la orientación que necesitas en temas como: sanidad, refugio, alimentación, educación, género y empleo. Donde cada una de esas pestañas te da la opción de clicar y al entrar allí, podrás encontrar la informacion u orientacion requerida que te orientará en dicho tema.
+El sitio va a tener básicamente dos usuarios, a continuación se detallan sus tareas y funciones:
 
-##### Sanidad 
+→ Administrador
+Gestor de contenido: Agregar, revisar, editar, actualizar y/o eliminar contenido, 
+Gestor de usabilidad: Asegurar que los usuarios pueden cumplir los objetivos, avanzar en la navegación de los contenidos y que los links/enlaces funcionan correctamente.
+Gestor de incidencias: Atender las inconsistencias dentro del sitio web, gestionar los problemas con los servidores y de errores en la página
+Resto de tareas: Diseño y configuración de contenido. Administrar la base de datos que genera el sitio web.
 
-Marta lleva a España y no sabes como acceder a un centro de salud, debe clicar en la pestaña de la sanidad, y después puede buscar diferentes enlaces oficiales que pueden ayudarle a encontrar lugares que pueden ayudar en el ámbito de la salud y las necesidades para acceder a este servicios.
+→ Usuario
+Los usuarios van a tener acceso público y libre al contenido que se ofrece dentro Aupa. Asimismo podrán consumir el contenido existente en los foros o utilizar la opción para crear un tema nuevo. El buscador avanzado es otra herramienta útil al igual que administrar el idioma en que desea consumir el contenido. 
+También se va a facilitar un medio de ‘contacto’ directo con el/los administrador/es. A su vez, va a poder a través de las RRSS seguir las novedades o compartir en su propio perfil de la RRSS que utilice, los artículos que le resulten útiles.
 
-##### Refugio
+## 2. Requerimientos de contenido
 
-Marta lleva a España y busca a un alojamiento en el País Vasco, debe hacer clic en la pestaña del refugio encontrar los diferentes servicios que puede ayudarle. 
+Partes en las que se divide el contenido
 
-##### Alimentación 
-
-Marta es en el País Vasco y le necesita buscar comida, en este pestana, puede encontrar las diferentes lugares y las bancos alimentos. 
-
-Si haces clic en educacion te llevara a una pagina donde estará la información de los centros de educación en el País Vasco y donde pueden ingresar los niños, jóvenes o adultos. Por otra parte también se indicará la documentación requerida.
-
-##### Género:
-
-Clicando en la pestaña Género tendrá acceso a la información de centros o instituciones que trabajan en pro de la protección a las mujeres y niños que son vulnerables y probablemente abusados o maltratados en el País Vasco. 
-
-##### Empleo:
-
-Si Juan llega al País Vasco en busca de mejores oportunidades y brindarle a su familia una estabilidad económica, deberá clicar en la pestaña empleo y encontrará las ofertas que se ajusten a sus necesidades. 
-
-#### Foro 
-
-Marta tiene muchas preguntas y quiere conocer las opiniones de los otros inmigrantes entonces clica en “Foro” arriba a la derecha. De esta manera puede discutir de lo que quiera con la comunidad de Aupe.
-
-#### Contacto 
-
-Ciclando en “Contacto” Marta quiere contactarnos porque tiene una pregunta sobre una de los entidades asociada. En la página va a llenar un formulario de contacto con su nombre, su apellido y su correo electrónico, para hacer su pregunta. 
-
-### Buscador 
-
-Marta querría conocer los trámites a seguir para hacer una demanda de asilo pero no se recuerda como encontrarlo, así clica en la lupa del buscador arriba a la derecha y taclea “demanda de asilo” y hacer “enter”, está en la página donde hay todas las informaciones para demandar el asilo. 
-
-### Las idiomas 
-
-Marta viene de Venezuela y por supuesto habla espanol pero su novio esta mas comodo con el ingles porque viene de América del Norte. Marta va a clicar en la pestaña “Idiomas” para cambiar la lengua y cuando el menú se abre clica en “Inglés”, el sitio se actualiza automáticamente. 
-
-## Requerimientos de contenido 
-
-### CONTENIDO
-
-#### Audiencia:
+- Audiencia:
 
 El público objetivo de Aupa se estableció mediante un análisis del origen, la cantidad de migrantes en el País Vasco y la edad promedio. A raíz de ello y del estudio de “personas” en la etapa previa, consideramos encaminar nuestro sitio web a las necesidades que Martha Morales migrante Nicaragüense nos manifestó. Teniendo en cuenta que: 
+Su frustración es estar indocumentada.
+Sus objetivos son conseguir la documentación, tener sus estudios homologados y un lugar donde pueda estar cómoda con su familia.
+Acceso a un servicio de sanidad
+Bolsa de trabajo, entre otros.
 
-- Su frustración es estar indocumentada.
+- Mensaje:
 
-- Sus objetivos son conseguir la documentación, tener sus estudios homologados y un lugar donde pueda estar cómoda con su familia.
+El mensaje es clave por que es el medio por el cual se puede ayudar al usuario a que se acerque al cumplimiento de los objetivos. 
+Se definió el mensaje para la sección de “Trámites”, ya que es importante mantener un criterio común para los artículos que se generen para esta pestaña.
 
-#### Mensaje: 
+Para tal fin, se describen los siguientes tipos de mensajes que va a tener un artículo:
 
-Dentro de la plataforma de Aupa se observará principalmente la zonas de acogida y donde la organización tiene las alianzas, en este caso el País Vasco (San Sebastián, Irún, Bilbao y Vitoria). Por otra parte estará la barra de inicio donde se visualizarán los temas de mayor relevancia (comunidad, entidades,trámites, servicios, foro y contactos) y a partir de allí el usuario obtendrá la información requerida frente al tema consultado.
+*Primer mensaje:* Titulo gancho acerca de qué va el artículo concretamente.
 
-##### Contenido página de inicio 
+*Segundo mensaje:*  Breve introducción en formato de texto sobre los puntos importantes del artículo. Debe tener un tono sensacional, esperanzador, que invite al lector a ampliar su lectura. 
 
-En esta pagina aparecera el logo y la barra de menú arriba con todas las pestañas del sitio. 
-También, cada ciudad de destinación dentro el País Vasco será visible desde esta pagina gracias a imagenes y la posibilidad de descubrir más sobre cada una de ellas. 
+*Tercer mensaje:* Se amplía sobre la base del segundo mensaje. Aquí se busca lograr que el usuario tenga una hoja de ruta a seguir para cumplir su objetivo. Para ello se debe explicar en qué consiste el tema tratado, apoyando el contenido con uno o varios de los siguientes recursos: imágenes, videos, mapas, acceso a link oficiales de ser posible para concretar ó iniciar el trámite en cuestión. 
+El lenguaje para el tercer mensaje debe ser amigable, claro, sencillo, nada de formalismos y tecnicismos que levantan una barrera con un público objetivo que al no ser oriundo del País Vasco o eventualmente con bajos niveles de formación académica, le invite a la confusión/frustración. Esta sección debe marcar un camino de pasos a cumplir, de modo tal que el usuario pueda empezar y terminar un trámite con la ayuda del articulo.
 
-##### Contenido comunidad 
+*Cuarto mensaje:* Fuentes de instituciones públicas y/o ONG oficiales.
 
-En esta pestaña habrá una sección por cada país de donde vienen los inmigrantes (Venezuela, Colombia y Nicaragua). Dentro cada sección podremos encontrar noticias actuales sobre el país. Entonces habrá textos, imágenes y videos ocasionalmente. 
+Respecto al detalle, se han de tomar algunos atributos del **slow content**, en términos de que el contenido se va a elaborar de forma cuidadosa, eligiendo correctamente los recursos para facilitar la tarea del usuario, al mismo tiempo, se entiende que al ser artículos con una alta implicación por parte del usuario no sería sorprendente pensar que el mismo sea capaz de regresar muchas veces para repasar los pasos dados y los que restan dar para completar el objetivo.
+El mensaje debe responder a las genuinas necesidades del usuario, aprovechar los recursos que provee el medio digital para ayudarlo a satisfacerlas.
+A su vez no se podrá de ninguna manera tergiversar una información para que quede bonita, será importante que el editor cree contenido razonado, concienzudo y que su legitimidad dure en el tiempo gracias a la elección fundada de la información que se provee.
+No se admitirán las fake news, ni contenido sin respaldo veraz.
 
-##### Contenido entidades 
+- Temas
 
-Este pestana comprenderá una sección por cada entidad mencionada. Es decir, el ayuntamiento de Bilbao, el ayuntamiento de San-Sebastián, el ayuntamiento de Vitoria-Gasteiz, el Gobierno Vasco y la organización non gouvernementale ACNUR. Dentro habrá todas la informaciones sobre cómo las entidades pueden ayudar, que permiten y cómo actúan y también sus datos personales para contactarlas. 
+IMAGEN
 
-##### Contenido trámites 
+- Propósito
 
-###### Empadronamiento
-Aquí habrá 4 apartados, cada uno va a tener información en formato texto que responderán a los siguientes títulos:
->- Que es?
->- Cual es el beneficio de empadronarse?
->- Requisitos
->- Tramitación
+Aupa es una plataforma web pensada para ayudar a los inmigrantes forzados que llegan al País Vasco con la esperanza de mejores oportunidades para establecerse permanentemente, el objetivo se logra brindándoles la información de los trámites que deben realizar y las entidades u organizaciones a las cuales se deben dirigir para que el proceso a seguir de los mismos sea legal en territorio vasco. Es decir, informar acerca de los lugares de acogida, centros de sanidad, centros educativos, entidades que brindan empleo y lugares donde otorguen la alimentación para niños, mujeres y hombres inmigrantes en el País Vasco , además de la documentación que necesiten para acceder a estos centros de atención y trámites como agrupación familiar, empadronamiento, nacionalidad, asilo entre otras.  
 
-A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
-
-Al final de la página empadronamiento, va a haber un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Empadronamiento”.
-
-###### Residencia
-
- - Transitoria
-Aquí tendremos un sección en formato texto con información sobre los distintos tipos de residencias transitorias, las cuales deben tener el acceso directo sobre la palabra al sitio oficial que proporciona la respectiva información o si tenemos en “Aupa” una página sobre la misma, el redireccionamiento será directamente allí.
-
- En el caso de la sección sobre “autorización para investigación y estudio” en la misma palabra se debe poner un link de acceso a la página oficial,  y en Donde tramitar, se debe colocar unos emoticones de teléfono (:telephone:), reloj (:clock9: :clock2:) y mail (:e-mail:) al lado de la información de contacto.
-
- - Permanente
- Aquí tendremos un sección en formato texto con información sobre los requisitos.
-
- A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
-
- Al final de la página de “Residencia Permanente”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que se exponga en la pestaña “Permanente”.
-
-###### Demanda de asilo
- - Asilo y refugio
- Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Asilo y refugio”.
-
- A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
-
- Al final de la página de “Asilo y refugio”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
-
- - Circunstancias excepcionales ó humanitarias
- Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Circunstancias excepcionales ó humanitarias”.
-
- A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
-
- Al final de la página de “Circunstancias excepcionales ó humanitarias”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
-
-###### Reunificación familiar
-Aquí debe haber una sección en formato texto con una breve explicación acerca de qué se entiende por “Reunificación familiar”.
-
-A continuación habrá un link de acceso sobre la palabra **“DONDE”** que direccionará a una página dentro de “Aupa” en la que se va a especificar donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la respectiva dirección.
-
-Al final de la página de “Reunificación familiar”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
-
-###### Nacionalidad
-Aquí debe haber una sección en formato texto con una explicación acerca de los requisitos para obtener la Nacionalidad.
-
-A continuación habrá una sección sobre Dónde tramitar la Nacionalidad.
-
-Al final de la página de “Nacionalidad”, se debe incluir un último apartado destinado a la fuente, con un link de acceso a la página oficial que respalda toda la información que aquí se exponga.
-
-###### DONDE
-Aquí se va a especificar con formato de texto donde se puede efectuar el trámite. La página “Donde” debe contar con fotos de las dependencias públicas, información de contacto con un emoticon de teléfono (:telephone:) y la dirección de cada lugar.
-
-##### Contenido servicios 
-
-##### Sanidad
-
-En esta pestaña, el usuario puede encontrar información sobre centros de salud en el País Vasco, así como sobre diferentes hospitales. También puede encontrar información administrativa, por ejemplo, los documentos de solicitud de la tarjeta sanitaria o las diferentes direcciones a las que puede aplicar.
-
-##### Refugio
-
-En esta pestaña, el usuario podrá encontrar las direcciones de las instituciones públicas a las que podrá dirigirse para encontrar un alojamiento en el País Vasco, que sea para un alojamiento de tránsito o un alojamiento permanente según la ciudad en la que desee encontrarlo. También puede encontrar información administrativa y documentos para hacer solicitudes.
-
-##### Alimentación 
-
-Esta pestaña mostrará una lista de todos los bancos de alimentos en el País Vasco, así como los enlaces a su sitio web. Los horarios, direcciones e información relacionada con estos bancos de alimentos y cómo operan.
-
-##### Educación:
-
-La información que se brinda en esta pestaña es de los centros de educación vigentes en el País Vasco (San sebastián, Bilbao, Vitoria e Irún)para que los inmigrantes puedan continuar con la formación escolar, bachiller o profesional. Así mismo se aportarán las fechas de inscripción y la  documentación necesaria para la matrícula. Además, se pondrá un link de acceso a las plataformas de los centros de educación.
-
-##### Género:
-
-En género se aloja la información de las entidades que trabajan en pro del bienestar de las mujeres y niños que son vulnerables y que enfrentan situaciones de violencia. Además del link de acceso a cada una de las organizaciones. 
-
-##### Empleo:
-
-Se conoce que la situación de los migrantes es de total vulnerabilidad y por ende en muchos casos sufren de explotación laboral. En la pestaña empleo los usuarios podrán encontrar los talleres y diversidad de formas de ganar dinero legalmente en el País Vasco. No obstante tendrán el link de acceso a dichas entidades.
-
-##### Contenido foro 
-
-El foro es creado básicamente para que los usuarios accedan y den su opinión sobre la información que se les brinda, es decir, si les ha servido para resolver inquietudes o si tienen algún reclamo, esto le permite a Aupa una constante retroalimentación dando pie al mejoramiento de la plataforma. 
-Se ha pensado en una estructura donde el usuario pueda ver las banderas de los diferentes países con los que trabaja Aupa y clicando en el país que él requiera puede unirse a uno de los foros. 
-
-##### Contenido contacto 
-
-El usuario encontrará un formulario que deberá rellenar con su nombre, apellido, email entre otros datos, para que Aupa pueda comunicarse con él y resolver las inquietudes. 
-En esta página el usuario podrá encontrar la ubicación, el teléfono y las redes sociales de las entidades con las que Aupa tiene alianzas en el País Vasco.
-
-#### Temas:
-
-![web](/2-alcance/Estructura.PNG)
-
-#### Propósito: 
-
-Aupa es una plataforma web pensada para ayudar a los migrantes de Nicaragua, Venezuela y Colombia que llegan al País Vasco con la esperanza de conseguir mejores oportunidades. Este objetivo se logra brindándoles la información de los trámites que deben realizar y las entidades u organizaciones a las cuales se deben dirigir para que el alojamiento de los mismos sea legal en San sebastián, Bilbao, Irún y Vitoria. Es decir, informar acerca de los lugares de acogida, centros de sanidad, centros educativos, entidades que brindan empleo y lugares donde otorguen la alimentación para niños, mujeres y hombres inmigrantes en el País Vasco , además de la documentación que necesiten para acceder a estos centros de atención y trámites como agrupación familiar, empadronamiento, nacionalidad, asilo entre otras.  
-
-#### Tono y lenguaje: 
+- Tono y mensaje
 
 Lenguaje: Aupa busca dirigirse a los migrantes con un lenguaje de fácil comprensión, que inspire y sea concreto para que a la hora de consultar sea más eficaz la búsqueda. 
 Tono: El tono de Aupa será de tal modo que los migrantes encuentren esperanza a la hora de consultar en el sitio web, por otro lado, que se sientan en la capacidad de preguntar y dirigirse a los foros u otras entidades en busca de ayuda y que así puedan insertarse en el país. 
 
-#### Fuentes o contenido: 
+- Fuentes
 
-El contenido que se alojara en Aupa es principalmente co-creado, es decir, se toma la información de otras fuentes y se publica en la plataforma de Aupa con el fin de propagarla y que sirva de ayuda y orientación para los migrantes en el País Vasco. Además con las alianzas estratégicas entre las organizaciones y Aupa, la información que se aloja en el sitio web será de confiabilidad para los individuos. Sin embargo, se tendrán en cuenta las sugerencias expuestas por los usuarios a la hora de interactuar con la plataforma, debido a que en muchas ocasiones dichos comentarios retroalimentan y ayudan al crecimiento y evolución de la organización. 
+El contenido que se alojara en Aupa es principalmente co-creado, es decir, se toma la información de otras fuentes y se publica en la plataforma de Aupa con el fin de dar ayuda y orientación a los inmigrantes forzados en el País Vasco. Además con las alianzas estratégicas entre las organizaciones y Aupa, la información que se aloja en el sitio web será de confiabilidad para los individuos. Sin embargo, se tendrán en cuenta las sugerencias expuestas por los usuarios a la hora de interactuar con la plataforma, debido a que en muchas ocasiones dichos comentarios retroalimentan y ayudan al crecimiento y evolución del mismo. 
 
-#### Priorizar el contenido 
+- Priorizar el contenido
 
-* Requisitos: Queremos ofrecer este tipo de contenido a las personas que migran forzosamente al País Vasco con el objetivo de facilitarles a su llegada una mejor integración en esta región y que no se sientan perdidos a la hora instalarse. 
+Requisitos: Queremos ofrecer este tipo de contenido a las personas que migran forzosamente al País Vasco con el objetivo de facilitarles a su llegada una mejor integración en esta región y que no se sientan perdidos a la hora empezar de cero en esta nueva comunidad. 
 
-* Alcance: Alcance: La audiencia a la que pretendemos alcanzar se conforma con los inmigrantes forzados provenientes de países como Nicaragua, Colombia y Venezuela que arriban al País Vasco.
+Alcance: La audiencia a la que pretendemos alcanzar se conforma con los inmigrantes forzados de entre 25 y 44 años que arriban al País Vasco con el ánimo de establecerse de forma permanente en la comunidad vasca.
 
-* Relevancia: El usuario de la página web Aupa va a encontrar valor en la misma debido a la presentación clasificada y ordenada de la información que les va a ayudar a cubrir de forma integral las necesidades que tienen que resolver los inmigrantes forzados cuando arriban al País Vasco. Los inmigrantes forzados que no utilicen la plataforma pueden encontrarse con información falsa, desactualizada, desordenada o simplemente faltar pasos importantes que les ayuden a la hora de una mejor inserción en el País Vasco.
+Relevancia: El usuario de la página web Aupa va a encontrar valor en la misma debido a la presentación clasificada y ordenada de la información, de fácil legibilidad para ayudar a procesarla correctamente, buscando atacar de forma integral las necesidades que tienen que resolver los inmigrantes forzados cuando arriban al País Vasco. 
+Los inmigrantes forzados que no utilicen la plataforma, pueden encontrar información falsa, desactualizada, desordenada o simplemente faltar pasos de vital importancia que les facilite los pasos que deben dar a la hora de buscar una inserción más exitosa y rápida en este territorio.
 
-* Ingresos: Somos una organización sin fin de lucro, dado esto, los medios y las actividades que puedan generar ingresos van a estar en sintonía con la idea de financiar al equipo de trabajo y las acciones que genera la plataforma para cumplir con la misión, visión y objetivos propuestos. Queremos ser un actor de relevancia y un referente en cuanto a inmigración forzada en el País Vasco, es por ello que en primer lugar, tendremos a disposición la posibilidad de recibir donaciones a voluntad y de forma independiente a nuestra página. Segundo, si las donaciones no son suficientes, podría generarse otra fuente de ingreso a través de la publicidad en banners cuidadosamente diseñados para no interferir con el cumplimiento de nuestra actividad. Más adelante y apoyándonos en las estadísticas, podremos diseñar algún sistema de compensaciones económicas en la medida que nuestro trabajo genere conversiones de objetivos para nuestros partners, ONGs, instituciones públicas, entre otros.
+Ingresos: Somos una organización sin fin de lucro, dado esto, los medios y las actividades que puedan generar ingresos van a estar en sintonía con la idea de financiar al equipo de trabajo y las acciones que genera la plataforma para cumplir con la misión, visión y objetivos propuestos. Queremos ser un actor de relevancia y un referente en cuanto a inmigración forzada en el País Vasco, es por ello que en primer lugar, tendremos a disposición la posibilidad de recibir donaciones a voluntad y de forma independiente a nuestra página. Segundo, si las donaciones no son suficientes, podría generarse otra fuente de ingreso a través de la publicidad en banners cuidadosamente diseñados para no interferir con el cumplimiento de nuestra actividad. Más adelante y apoyándonos en las estadísticas, podremos diseñar algún sistema de compensaciones económicas en la medida que nuestro trabajo genere conversiones de objetivos para nuestros partners, ONGs, instituciones públicas, entre otros.
 
-## Estructura 
+## 3. Estructura
 
-#### Primeras decisiones 
+### 3.1 Primeras decisiones
 
-* Canal: Pagina Web 
+Canal: Pagina web 
 
-* Plataforma: El soporte para nuestra página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web.
+Plataforma: El soporte para la página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web. 
 
-* Formato: En nuestra plataforma habrá artículos, formularios, imagenes, videos etc. Entonces habrá una diversidad de formatos. 
+Formato: En la plataforma habrá artículos, formularios, imagenes, videos etc. Entonces habrá una diversidad de formatos. 
 
-* Mensaje clave: Queremos transmitir la idea de que todos los inmigrantes que vienen a País Vasco pueden encontrar soluciones, ayuda o opiniones para instalarse en esta región. 
+Mensaje clave: Se va a transmitir la idea de que todos los inmigrantes forzados que llegan al País Vasco pueden encontrar soluciones, ayuda o información pertinente para empezar su vida desde cero en esta región. 
+
+### 3.2 Navegación
+
+Nomenclatura: La plataforma será organizada en varias secciones: Entidades, Trámites, Quienes somos, Foro, Tu idioma y una Lupa para el buscador avanzado. Cada sección puede contener subsecciones que llevan a diferentes páginas según el tema. 
+
+Hipervínculos: Los hipervínculos aparecerán en el sitio web cada vez que se mencionan entidades o actores externos. Esto concierne a los ayuntamientos, el gobierno Vasco, las organizaciones no gubernamentales, etc. Esto dará la posibilidad a los internautas de encontrar más información a propósito de lo que están buscando. 
+
+Microcopias: En principio no se necesita la aplicación de esta herramienta. De todas formas,  se va a valorar con la puesta en marcha del proyecto su utilización para mejorar la experiencia de usuario.
+
+Etiquetas: Se van a poner etiquetas en todos los contenidos que pueden ser útiles para los inmigrantes forzados. En efecto, estas etiquetas permiten que el contenido esté relacionado con el buscador del sitio y los motores de búsqueda cuando los internautas quieren encontrar una información más fácilmente. 
+
+## 4. Tablar de páginas
+
+Esta herramienta se va a utilizar con el objeto de organizar el contenido propuesto para el sitio web, de esta forma, se va a poder estructurar el contenido para cada página que va a tener el sitio web poniendo en común los criterios para los administradores de la misma. 
+
+1) Página principal del sitio web
+
+“Página principal del sitio web Aupa”
+Objetivo de la página: Poner frente a los usuarios los distintos caminos que pueden tomar para cumplir con sus objetivos dentro del sitio web.
+Fuente del contenido: El sitio web Aupa.
+Propietario del contenido: El sitio web Aupa.
+
+IMAGEN 1
+
+2) Tabla para la página que ha de tener los artículos de las distintas pestañas.
+
+“Página de trámite”
+Objetivo de la página: Proveer información para orientar al inmigrante forzado a cumplir una necesidad de trámites.
+Fuente del contenido: Entidades públicas (Ayuntamiento, gobierno vasco, etc), ONG oficiales.
+Propietario del contenido: Autor del artículo, de Aupa.
+
+IMAGEN 2
+
+3) Tabla para la página interna del foro:
  
-#### Navegación
+“Página interna de foro”
+Objetivo de la página: Dar soporte como base de datos para consultar los temas tratados en el foro ó para introducir nuevas dudas, consultas e información pertinente para la comunidad.
+Fuente del contenido: Usuarios de la página.
+Propietario del contenido: El sitio web Aupa.
 
-* Microcopias: En principio no necesitaremos la aplicación de esta herramienta. De todas formas, valoraremos más adelante se utilizarlo mejora la experiencia de usuario.
+IMAGEN 3
 
-* Nomenclatura: La plataforma será organizada en varias secciones: Comunidad, Entidades, Trámites, Servicios, Foro, Contacto y Idiomas. Cada sección se compone de subsecciones que llevan a diferentes páginas. 
- 
-* Hipervínculos: Los hipervínculos aparecerán en nuestro sitio web cada vez que mencionaremos entidades o actores exteriores. Esto concierne los ayuntamientos, el gobierno Vasco, las organizaciones non gouvernementales, etc. Dará la posibilidad a los internautas encontrar más informaciones a propósito de lo que están buscando. 
+4) Página de resultados de búsqueda
 
-* Etiquetas: Pondremos etiquetas en todos los contenidos que pueden servir y ser útiles para los inmigrantes. En efecto, estas etiquetas permitiran al contenido estar relacionado con el buscador del sitio y cuando los internautas querrian buscar una información la encontrarán más fácilmente. 
+“Página resultados de búsqueda”
+Objetivo de la página: Devolver en la misma página los resultados que coincidan con la busqueda realizada sobre la “Lupa” en la página principal del sitio web.
+Fuente del contenido: El sitio web Aupa.
+Propietario del contenido: El sitio web Aupa.
 
-#### Herramientas utiles 
+IMAGEN 4
 
-Para imaginarnos concretamente cómo va a representar nuestro sitio web vamos a utilizar el mapa del sitio y después realizaremos una tabla de página para organizar de manera coherente el contenido propuesto. 
+5) Pagina de contacto
+
+“Página de contacto con el sitio web Aupa”
+Objetivo de la página: Dar el soporte a los usuarios para ponerse en contacto con el staff del sitio web Aupa. 
+Fuente del contenido: El usuario del sitio web Aupa.
+Propietario del contenido: El sitio web Aupa.
+
+IMAGEN 5
 
 ## Referencias
+
+Especificaciones funcionales sin esfuerzo, partes 1-3
+Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo
+Parte 1: ¿Por qué molestarse?
+Parte 2: ¿Qué es una especificación?
+Parte 3: Pero... ¿cómo?
+Especificaciones funcionales sin esfuerzo, parte 4
+Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo
+Parte 4: Consejos
+QuéHoraEs.com, especificación funcional de ejemplo
+Estrategia de contenidos
+Kristina Halvorson y Melissa Rach (2012), "Chapter 8. Content" en Content Strategy for the Web, Second Edition.
+New Riders: Berkeley, California. En biblioteca: 681.374.13/H15k
+Slow content
+Carlos J. Campo (2013), Cambie de tendencia y apúntese al movimiento Slow Content (parte I y parte II) 

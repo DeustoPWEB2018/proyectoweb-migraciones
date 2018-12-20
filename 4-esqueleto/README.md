@@ -38,7 +38,7 @@ En la primera, es la pagina que los usuarios podrán ver cuando van a hacer clic
 
  - **Wireframe**
  
- ![Wireframe](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4_Wireframe_pag_similares_3.jpg)
+ ![Wireframe](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/0330aadb7b3d0a3390ad8e064eccab9fb06dcf84/4-esqueleto/Imagenes%202/Wireframe_para_articulos.jpg)
 
 
   **Diseño de la interfaz**
@@ -82,7 +82,7 @@ Dentro del artículo o debajo en las referencias, el usuario va a poder hacer cl
 
    **Diseño de la información**
 
-Con este diseño el objetivo es que los usuarios entiendan fácilmente el sitio web, para ello, a continuación se va a disponer de algunos ejemplos que en parte son resultado del Card Sorting:
+Con este diseño el objetivo es que los usuarios entiendan fácilmente la pagina del sitio web, para ello, a continuación se va a disponer de algunos ejemplos que en parte son resultado del Card Sorting:
 
 Se define la pestaña con la palabra ‘Trámites’ en lugar de documentación o servicios.
 El icono de la ‘lupa’ para la búsqueda avanzada.

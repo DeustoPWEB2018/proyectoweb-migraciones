@@ -2,7 +2,11 @@
 
 ## Introducción
 
-En esta parte exponemos lo del Diseño de la Interracción que facilita las tareas del usuario, definiendo cómo el usuario interactúa con la funcionalidad y lo de la Arquitectura de la Información que es el diseño estructural del espacio de información para facilitar el aceso intuitivo al contenido. 
+En este plano se va a tratar el diseño de interacción, bajando de manera práctica y concreta la forma en que el usuario podrá moverse dentro del sitio web, las cosas que podrá realizar y las que no. 
+A su vez, se va abordar la arquitectura de la información, es decir el enfoque del contenido, su jerarquía y los principios para su organización.
+También se va a elaborar un Card Sorting como método abierto de consulta a los usuarios para encontrar la manera más apropiada de ponerle nombre a las pestañas y la organización del contenido dentro de cada una.
+Finalmente, se va a volcar en un diagrama el diseño del sitio web y la interacción de todas las partes como paso previo al armado de los wireframes que se van a encontrar en el plano siguiente -esqueleto-.
+
 
 ## Diseño de le interacción
 
@@ -58,14 +62,6 @@ Desde el primer momento, el contenido en Aupa, debe persuadir al usuario acerca 
 Debido a que Aupa es un sitio con una audiencia particular, -inmigrantes forzados-, para cumplir su misión y visión es importante que los usuarios alcancen a través de la oferta de contenidos el marco y el camino a seguir para cubrir sus necesidades, abordando cada tema de forma integral, para ello, el contenido tiene que presentarse de modo que permita una navegación intuitiva, eficiente y eficaz.
 
 El plano de estrategia, evidenció que ser un medio ó puente entre los inmigrantes forzados y la comunidad del País Vasco representa un gran desafío ya que requiere una atención politemática, por ello y casi de forma natural se encontró que para estructurar el contenido, la mejor solución es aplicar una estructura “de Arriba a Abajo”, en la que se espera atender correctamente la necesidad de información de los usuarios y a posteriori del contenido que se pueda incorporar o complementar con el vigente. Bajo esta lógica, el sitio web va a tener unas categorías principales y de éstas, se desprenderán unas subcategorías de las cuales se podrá continuar ramificando en una relación de nodos (páginas) como padre-hijo.
-
-Ejemplo de estructura Arriba-Abajo:
-
-![ejemplo](/3-estructura/ejemploarribaabajo.PNG)
-
-Ejemplo concreto para la organización de la página web Aupa (antes la prueba del card sorting): 
-
-![ejemplo](/3-estructura/ejemplopaginaweb.PNG)
 
 Entonces, en nuestro sitio web, vamos a utilizar esquemas exactos y ambiguos. En efecto, vamos a utilizar un esquema geográfico, por ejemplo en la pestaña de comunidad, porque es más fácil por los usuarios - inmigrantes forzados que son de diferentes países - a la hora de buscar información. Y por otra parte, esquemas ambiguos, organizados por tema. De hecho, este esquema es apropiado para el sitio web porque permite desarrollar información para cada pestaña de manera que el inmigrante puede sacar el máximo de información para ayudarle a cumplir sus objetivos. Además, como podemos ver en la maqueta de la página web, se utilizan palabras simples para evitar ambigüedad en la organización de la información.
 

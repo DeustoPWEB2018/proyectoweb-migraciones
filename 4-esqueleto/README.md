@@ -34,7 +34,7 @@ En la primera, es la pagina que los usuarios podrán ver cuando van a hacer clic
 
 ### Página para los articulos de la pestaña 'Trámites' 
  
- Modelo de wireframe para la pagina que va a contener los articulos que tendra el sitio web en la pestaña 'Tramites'
+ Modelo de wireframe para la pagina que va a contener los articulos que tendra el sitio web en la pestaña 'Tramites'. A continuación tambien se va a detallar los tres tipos de diseños que debo considerarse para este wireframe.
 
  - **Wireframe**
  
@@ -43,18 +43,19 @@ En la primera, es la pagina que los usuarios podrán ver cuando van a hacer clic
 
   **Diseño de la interfaz**
 
- Hay dos ejes importantes:
+El diseño de interfaz va a ser el mismo para todos los artículos que se generan dentro de la pestaña 'Trámites', es decir, la estética será semejante. La forma de organizar el contenido va a ser el siguiente: un título, una introducción, el cuerpo del artículo donde se va abordar el asunto con más detalle utilizando imágenes, videos, mapas, entre otros recursos necesarios para cumplir el objetivo que persigue en sí mismo cada artículo y al final, los documentos o enlaces de las páginas oficiales.
+ La calidad del diseño de interfaz estándar para cada artículo dentro va a ayuda al usuario en el proceso de familiarización con el sitio web.
 
- *Simplicidad:* Tiene que entenderse fácilmente con un simple vistazo. Se debe contribuir en el diseño de la interfaz para que tanto los usuarios habituales como los nuevos puedan sentirse familiarizados con la página, la distribución de los elementos y las acciones que se pueden hacer de forma rápida para llegar al contenido que están buscando de la forma mas practica posible.
+
+A su vez se destacan dos atributos que deben cumplir:
+
+ *Simplicidad:* La página debe entenderse fácilmente con un simple vistazo. Se debe contribuir en el diseño de la interfaz para que tanto los usuarios habituales como los nuevos puedan sentirse familiarizados con la misma, la distribución de los elementos y las acciones que se pueden hacer de forma rápida para llegar al contenido que están buscando de la forma mas practica posible.
 
 
  *Coherencia:*  El sitio tiene un orden jerárquico en una relación padre-hijo entre las distintas páginas. Dado esto, la interfaz debe transmitir una comprensión clara de estas relaciones para aumentar la efectividad del usuario dentro de las páginas.
 
 
  Con la idea de anticipar los movimientos posibles de los usuarios dentro de un articulo, se deja en la parte superior el menú con las pestañas principales del sitio. 
-
-
- La calidad del diseño está dispuesta para mostrar una estética y diseño estándar para todos los artículos dentro de cada pestaña, esto ayuda en el proceso de familiarización con el sitio que experimenta el usuario.
 
 
   **Diseño de la navegación**

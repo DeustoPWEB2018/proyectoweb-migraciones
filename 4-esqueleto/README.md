@@ -64,10 +64,15 @@ A su vez se destacan dos atributos que deben cumplir:
 
  ![Navegación global](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/3264517cc160c33049ec5854babaebc6d5aba64c/4-esqueleto/4-Navegacion%20global.png)
 
- Esto ofrece al usuario la posibilidad de navegar desde el artículo actual a otro punto del sitio alojado dentro de la barra de menú o volver al comienzo cliqueando en el botón de “INICIO”. Para esto es fundamental que los hipervínculos funcionan perfectamente.
+ Esto ofrece al usuario la posibilidad de navegar desde el artículo actual a otro punto del sitio web alojado dentro de la barra de menú o volver al comienzo cliqueando sobre el símbolo de "Aupa". Para esto es fundamental que los hipervínculos funcionen perfectamente.
 
+ A su vez, el usuario va a poder tener acceso al buscador avanzado en caso que quiera buscar algo mas especifico o ampliar con más información de su interés.
 
- Para que el usuario sepa donde esta, la pestaña en donde se encuentra tendra una sombra para distinguirla del resto. Además, se coloca debajo del menú la ruta que ha tomado el usuario para llegar al articulo.
+Dentro del artículo o debajo en las referencias, el usuario va a poder hacer click sobre los enlaces oficiales si desea comprobar más información al respecto.
+
+ También se fija sobre el artículo los enlaces de migas de pan (AUPA > Documentos > Demanda de asilo) de modo que el usuario siempre tenga referencia acerca de donde se encuentra navegando.
+
+ De igual manera, la pestaña sobre la cual se encuentra el usuario cambiara de color a un gris leve que se distinguirá del resto de la barra de menú. 
 
 
   **Diseño de la información**

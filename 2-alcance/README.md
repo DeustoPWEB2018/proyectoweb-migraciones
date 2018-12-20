@@ -99,7 +99,7 @@ No se admitirán las fake news, ni contenido sin respaldo veraz.
 
 - Temas
 
-IMAGEN
+![Tema](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8c1f5b28272c2dbebb5e7449aca78854a7fab8bc/2-alcance/Imagenes%202/Tema.png)
 
 - Propósito
 
@@ -159,7 +159,7 @@ Objetivo de la página: Poner frente a los usuarios los distintos caminos que pu
 Fuente del contenido: El sitio web Aupa.
 Propietario del contenido: El sitio web Aupa.
 
-IMAGEN 1
+![Tabla para página principal](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8c1f5b28272c2dbebb5e7449aca78854a7fab8bc/2-alcance/Imagenes%202/Tabla_de_pagina1.png)
 
 2) **Tabla para la página que ha de tener los artículos de las distintas pestañas**
 
@@ -168,16 +168,16 @@ Objetivo de la página: Proveer información para orientar al inmigrante forzado
 Fuente del contenido: Entidades públicas (Ayuntamiento, gobierno vasco, etc), ONG oficiales.
 Propietario del contenido: Autor del artículo, de Aupa.
 
-IMAGEN 2
+![Tabla de página para los articulos de la sección trámites](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8c1f5b28272c2dbebb5e7449aca78854a7fab8bc/2-alcance/Imagenes%202/Tabla_de_pagina2.png)
 
 3) **Tabla para la página interna del foro**
  
-“Página interna de foro”
+“Página interna del foro”
 Objetivo de la página: Dar soporte como base de datos para consultar los temas tratados en el foro ó para introducir nuevas dudas, consultas e información pertinente para la comunidad.
 Fuente del contenido: Usuarios de la página.
 Propietario del contenido: El sitio web Aupa.
 
-IMAGEN 3
+![Tabla de página para página interna del foro](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8c1f5b28272c2dbebb5e7449aca78854a7fab8bc/2-alcance/Imagenes%202/Tabla_de_pagina3.png)
 
 4) **Página de resultados de búsqueda**
 
@@ -186,7 +186,7 @@ Objetivo de la página: Devolver en la misma página los resultados que coincida
 Fuente del contenido: El sitio web Aupa.
 Propietario del contenido: El sitio web Aupa.
 
-IMAGEN 4
+![Tabla de página para los resultados de busqueda](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8c1f5b28272c2dbebb5e7449aca78854a7fab8bc/2-alcance/Imagenes%202/Tabla_de_pagina4.png)
 
 5) **Pagina de contacto**
 
@@ -195,21 +195,23 @@ Objetivo de la página: Dar el soporte a los usuarios para ponerse en contacto c
 Fuente del contenido: El usuario del sitio web Aupa.
 Propietario del contenido: El sitio web Aupa.
 
-IMAGEN 5
+![Tabla de página para contacto](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/8c1f5b28272c2dbebb5e7449aca78854a7fab8bc/2-alcance/Imagenes%202/Tabla_de_pagina5.png)
 
 ## Referencias
 
 Especificaciones funcionales sin esfuerzo, partes 1-3
 Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo
-Parte 1: ¿Por qué molestarse?
-Parte 2: ¿Qué es una especificación?
-Parte 3: Pero... ¿cómo?
+
+- [Parte 1: ¿Por qué molestarse?](https://web.archive.org/web/20171220105222/http://spanish.joelonsoftware.com:80/PainlessSpecs/1.html)
+- [Parte 2: ¿Qué es una especificación?](https://web.archive.org/web/20171230033908/http://spanish.joelonsoftware.com:80/PainlessSpecs/2.html)
+- [Parte 3: Pero... ¿cómo?](https://web.archive.org/web/20171220104503/http://spanish.joelonsoftware.com:80/PainlessSpecs/3.html)
+
 Especificaciones funcionales sin esfuerzo, parte 4
 Joel Spolsky (2000), Especificaciones funcionales sin esfuerzo
-Parte 4: Consejos
+- [Parte 4: Consejos](https://web.archive.org/web/20171220104805/http://spanish.joelonsoftware.com:80/PainlessSpecs/4.html)
 QuéHoraEs.com, especificación funcional de ejemplo
 Estrategia de contenidos
 Kristina Halvorson y Melissa Rach (2012), "Chapter 8. Content" en Content Strategy for the Web, Second Edition.
 New Riders: Berkeley, California. En biblioteca: 681.374.13/H15k
 Slow content
-Carlos J. Campo (2013), Cambie de tendencia y apúntese al movimiento Slow Content (parte I y parte II) 
+Carlos J. Campo (2013), Cambie de tendencia y apúntese al movimiento Slow Content ([parte I](https://www.estrategiadelcontenido.com/post.php?pag=cambie_tendencia_apuntese_al_movimiento_slow_content) y [parte II](https://www.estrategiadelcontenido.com/post.php?pag=cambie_tendencia_apuntese_al_movimiento_slow_content_ii)) 

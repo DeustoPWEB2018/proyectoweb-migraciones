@@ -17,22 +17,24 @@ Para esto, el sitio va a contar con dos perfiles bien marcados, el administrador
 
 ### 1.2  Situación de uso – Escenarios
 
-Escenario 1: Yoselin y sanidad 
+**Escenario 1: Yoselin y sanidad**
+
 Yoselin se encuentra en la casa de un compatriota, con un cuadro febril y sentada en un sillón tomando un vaso de agua para hidratarse se dispone a través de un smartphone que le prestó el mismo compatriota, a buscar en la página de Aupa información acerca de cómo obtener asistencia sanitaria. Para su sorpresa, además de encontrar un artículo escrito de forma clara y en un lenguaje amigable, comprueba que el mismo artículo cuenta con un mapa sobre el lugar más cercano a donde acudir. A pesar de que Yoselin suele ser un poco desconfiada de la información que suele encontrar por internet, en este caso, le tranquilizó ver los link de acceso a los documentos oficiales con la misma información pero en un lenguaje más técnico y formal. Ahora Yoselin entiende bien en qué consiste el trámite, los requisitos que le pedirán, la ubicación del dispensario y los horarios de atención.
 
-Escenario 2: Eduardo y educación
+**Escenario 2: Eduardo y educación**
+
 Eduardo ésta hace 3 meses en Irun, tiempo en el que ha podido hacer algunas amistades pero sin suerte aún para poder trabajar debido a que le solicitan un certificado que si bien lo completo en su país de origen no le vale aquí. Un día, estaba en medio de una conversación con un amigo que pasaba por la misma situación, cuando éste le muestra que dentro del Foro de Aupa, una persona compartió una entrada con la información de un curso de formación en carpintería ofrecido por el ayuntamiento para inmigrantes forzados, Eduardo y su amigo quedaron con la boca abierta. Sin creer lo que estaban viendo, siguieron leyendo y más abajo encontraron que otros 5 usuarios ya habían contestado a la entrada en cuestión, agregando más información ó simplemente comentando lo bueno que estaba el curso. A la noche, cuando Eduardo llega a la habitación que comparte con otras 3 personas, se puso a explorar con su ordenador con más detenimiento la página web de Aupa y encontró gracias al buscador avanzado que había muchos resultados para las palabras “cursos en Irun”, exactamente 7 artículos. Así se pasó un buen rato viendo no solo más información sobre el curso que antes habían encontrado en el Foro, sino otros cursos que le resultaban interesante.
 
-Escenario 3: Marta indocumentada
+**Escenario 3: Marta indocumentada**
 
 En caso de que Marta haya arribado a Euskadi atravesada por una situaciones de fuerza mayor, conectando su tablet a la red de wifi libre de Donostia, podrá una vez dentro del sitio web Aupa acceder haciendo click sobre “Demanda de asilo” a una página con un título sugerente al trámite, una introducción acerca de los casos en que se prevé se puede solicitar asilo en el País Vasco. En la misma página encontrara dos accesos a los que podrá acceder según su necesidad haciendo click:
  
-Asilo y refugio
+*Asilo y refugio:*
 Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción sobre el tema. En el artículo Marta podrá darle play a un video mas grafico sobre el pedido de asilo y refugio, los derechos de las personas para solicitar el mismo en los casos justificados.
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
 Como Marta querrá chequear la fuente de esta información, al final, encontrará un link de acceso directo a la página oficial del Departamento de Empleo y Políticas Sociales de Euskadi sobre este tema.
 
-Circunstancias excepcionales ó humanitarias
+*Circunstancias excepcionales ó humanitarias:*
 Dentro de esta pagina, Marta podrá leer brevemente una pequeña introducción del tema. En caso de que Marta llegó a este apartado por error, va a poder hacer click para volver a demanda de asilo y refugio, también a la sección de trámites o empezar de nuevo en la página de inicio del sitio web.
 Además de leer más acerca del trámite, Marta podrá reproducir un video que explica con más detalles en qué consiste el trámite.
 Sobre el subtítulo “Dónde”, al hacer click, Marta será direccionada a la página con los lugares disponibles para tramitarlo (actualmente: Vitoria Gasteiz, Bilbao, Donostia-San Sebastián y Irún) con la dirección, teléfono y/o mail de contacto de cada uno respectivamente, así, Marta podrá cuando termine su gestión, explorar los alrededores de la dependencia pública.
@@ -41,21 +43,24 @@ Como Marta querrá chequear la fuente de esta información, al final, encontrar�
 ### 1.3  No objetivos
 
 El sitio web no contará con los siguientes servicios:
-Login y registro. Al estar dirigida a un público específico como son los inmigrantes forzados, no parece apropiado ofrecer el registro y la creación de una cuenta de usuario que los obligue a proveer información que pueden querer mantener en un estado reservado. Por ello, el contenido será abierto y de acceso público, en el caso de los foros por ejemplo, el usuario podrá utilizar seudónimos y proveer el mail que desee para enterarse a futuro las novedades sobre la entrada creada o en la que há participado.
-Suscripción de pago para ningún servicio que se brinda en la página.
-Una sede física del sitio web para el contacto personal de los usuarios.
+
+- Login y registro. Al estar dirigida a un público específico como son los inmigrantes forzados, no parece apropiado ofrecer el registro y la creación de una cuenta de usuario que los obligue a proveer información que pueden querer mantener en un estado reservado. Por ello, el contenido será abierto y de acceso público, en el caso de los foros por ejemplo, el usuario podrá utilizar seudónimos y proveer el mail que desee para enterarse a futuro las novedades sobre la entrada creada o en la que há participado.
+- Suscripción de pago para ningún servicio que se brinda en la página.
+- Una sede física del sitio web para el contacto personal de los usuarios.
 
 ###  1.4 Explicación de usuarios y de uso
 
 El sitio va a tener básicamente dos usuarios, a continuación se detallan sus tareas y funciones:
 
 → Administrador
+
 Gestor de contenido: Agregar, revisar, editar, actualizar y/o eliminar contenido, 
 Gestor de usabilidad: Asegurar que los usuarios pueden cumplir los objetivos, avanzar en la navegación de los contenidos y que los links/enlaces funcionan correctamente.
 Gestor de incidencias: Atender las inconsistencias dentro del sitio web, gestionar los problemas con los servidores y de errores en la página
 Resto de tareas: Diseño y configuración de contenido. Administrar la base de datos que genera el sitio web.
 
 → Usuario
+
 Los usuarios van a tener acceso público y libre al contenido que se ofrece dentro Aupa. Asimismo podrán consumir el contenido existente en los foros o utilizar la opción para crear un tema nuevo. El buscador avanzado es otra herramienta útil al igual que administrar el idioma en que desea consumir el contenido. 
 También se va a facilitar un medio de ‘contacto’ directo con el/los administrador/es. A su vez, va a poder a través de las RRSS seguir las novedades o compartir en su propio perfil de la RRSS que utilice, los artículos que le resulten útiles.
 
@@ -102,8 +107,9 @@ Aupa es una plataforma web pensada para ayudar a los inmigrantes forzados que ll
 
 - Tono y mensaje
 
-Lenguaje: Aupa busca dirigirse a los migrantes con un lenguaje de fácil comprensión, que inspire y sea concreto para que a la hora de consultar sea más eficaz la búsqueda. 
-Tono: El tono de Aupa será de tal modo que los migrantes encuentren esperanza a la hora de consultar en el sitio web, por otro lado, que se sientan en la capacidad de preguntar y dirigirse a los foros u otras entidades en busca de ayuda y que así puedan insertarse en el país. 
+*Lenguaje:* Aupa busca dirigirse a los migrantes con un lenguaje de fácil comprensión, que inspire y sea concreto para que a la hora de consultar sea más eficaz la búsqueda.
+
+*Tono:* El tono de Aupa será de tal modo que los migrantes encuentren esperanza a la hora de consultar en el sitio web, por otro lado, que se sientan en la capacidad de preguntar y dirigirse a los foros u otras entidades en busca de ayuda y que así puedan insertarse en el país. 
 
 - Fuentes
 
@@ -111,42 +117,42 @@ El contenido que se alojara en Aupa es principalmente co-creado, es decir, se to
 
 - Priorizar el contenido
 
-Requisitos: Queremos ofrecer este tipo de contenido a las personas que migran forzosamente al País Vasco con el objetivo de facilitarles a su llegada una mejor integración en esta región y que no se sientan perdidos a la hora empezar de cero en esta nueva comunidad. 
+*Requisitos:* Queremos ofrecer este tipo de contenido a las personas que migran forzosamente al País Vasco con el objetivo de facilitarles a su llegada una mejor integración en esta región y que no se sientan perdidos a la hora empezar de cero en esta nueva comunidad. 
 
-Alcance: La audiencia a la que pretendemos alcanzar se conforma con los inmigrantes forzados de entre 25 y 44 años que arriban al País Vasco con el ánimo de establecerse de forma permanente en la comunidad vasca.
+*Alcance:* La audiencia a la que pretendemos alcanzar se conforma con los inmigrantes forzados de entre 25 y 44 años que arriban al País Vasco con el ánimo de establecerse de forma permanente en la comunidad vasca.
 
-Relevancia: El usuario de la página web Aupa va a encontrar valor en la misma debido a la presentación clasificada y ordenada de la información, de fácil legibilidad para ayudar a procesarla correctamente, buscando atacar de forma integral las necesidades que tienen que resolver los inmigrantes forzados cuando arriban al País Vasco. 
+*Relevancia:* El usuario de la página web Aupa va a encontrar valor en la misma debido a la presentación clasificada y ordenada de la información, de fácil legibilidad para ayudar a procesarla correctamente, buscando atacar de forma integral las necesidades que tienen que resolver los inmigrantes forzados cuando arriban al País Vasco. 
 Los inmigrantes forzados que no utilicen la plataforma, pueden encontrar información falsa, desactualizada, desordenada o simplemente faltar pasos de vital importancia que les facilite los pasos que deben dar a la hora de buscar una inserción más exitosa y rápida en este territorio.
 
-Ingresos: Somos una organización sin fin de lucro, dado esto, los medios y las actividades que puedan generar ingresos van a estar en sintonía con la idea de financiar al equipo de trabajo y las acciones que genera la plataforma para cumplir con la misión, visión y objetivos propuestos. Queremos ser un actor de relevancia y un referente en cuanto a inmigración forzada en el País Vasco, es por ello que en primer lugar, tendremos a disposición la posibilidad de recibir donaciones a voluntad y de forma independiente a nuestra página. Segundo, si las donaciones no son suficientes, podría generarse otra fuente de ingreso a través de la publicidad en banners cuidadosamente diseñados para no interferir con el cumplimiento de nuestra actividad. Más adelante y apoyándonos en las estadísticas, podremos diseñar algún sistema de compensaciones económicas en la medida que nuestro trabajo genere conversiones de objetivos para nuestros partners, ONGs, instituciones públicas, entre otros.
+*Ingresos:* Somos una organización sin fin de lucro, dado esto, los medios y las actividades que puedan generar ingresos van a estar en sintonía con la idea de financiar al equipo de trabajo y las acciones que genera la plataforma para cumplir con la misión, visión y objetivos propuestos. Queremos ser un actor de relevancia y un referente en cuanto a inmigración forzada en el País Vasco, es por ello que en primer lugar, tendremos a disposición la posibilidad de recibir donaciones a voluntad y de forma independiente a nuestra página. Segundo, si las donaciones no son suficientes, podría generarse otra fuente de ingreso a través de la publicidad en banners cuidadosamente diseñados para no interferir con el cumplimiento de nuestra actividad. Más adelante y apoyándonos en las estadísticas, podremos diseñar algún sistema de compensaciones económicas en la medida que nuestro trabajo genere conversiones de objetivos para nuestros partners, ONGs, instituciones públicas, entre otros.
 
 ## 3. Estructura
 
 ### 3.1 Primeras decisiones
 
-Canal: Pagina web 
+*Canal:* Pagina web 
 
-Plataforma: El soporte para la página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web. 
+*Plataforma:* El soporte para la página web será con Wordpress ya que nos permitirá volcar sin muchas limitaciones desde un primer momento los resultados que queden definidos a partir de nuestro proyecto web. 
 
-Formato: En la plataforma habrá artículos, formularios, imagenes, videos etc. Entonces habrá una diversidad de formatos. 
+*Formato:* En la plataforma habrá artículos, formularios, imagenes, videos etc. Entonces habrá una diversidad de formatos. 
 
-Mensaje clave: Se va a transmitir la idea de que todos los inmigrantes forzados que llegan al País Vasco pueden encontrar soluciones, ayuda o información pertinente para empezar su vida desde cero en esta región. 
+*Mensaje clave:* Se va a transmitir la idea de que todos los inmigrantes forzados que llegan al País Vasco pueden encontrar soluciones, ayuda o información pertinente para empezar su vida desde cero en esta región. 
 
 ### 3.2 Navegación
 
-Nomenclatura: La plataforma será organizada en varias secciones: Entidades, Trámites, Quienes somos, Foro, Tu idioma y una Lupa para el buscador avanzado. Cada sección puede contener subsecciones que llevan a diferentes páginas según el tema. 
+*Nomenclatura:* La plataforma será organizada en varias secciones: Entidades, Trámites, Quienes somos, Foro, Tu idioma y una Lupa para el buscador avanzado. Cada sección puede contener subsecciones que llevan a diferentes páginas según el tema. 
 
-Hipervínculos: Los hipervínculos aparecerán en el sitio web cada vez que se mencionan entidades o actores externos. Esto concierne a los ayuntamientos, el gobierno Vasco, las organizaciones no gubernamentales, etc. Esto dará la posibilidad a los internautas de encontrar más información a propósito de lo que están buscando. 
+*Hipervínculos:* Los hipervínculos aparecerán en el sitio web cada vez que se mencionan entidades o actores externos. Esto concierne a los ayuntamientos, el gobierno Vasco, las organizaciones no gubernamentales, etc. Esto dará la posibilidad a los internautas de encontrar más información a propósito de lo que están buscando. 
 
-Microcopias: En principio no se necesita la aplicación de esta herramienta. De todas formas,  se va a valorar con la puesta en marcha del proyecto su utilización para mejorar la experiencia de usuario.
+*Microcopias:* En principio no se necesita la aplicación de esta herramienta. De todas formas,  se va a valorar con la puesta en marcha del proyecto su utilización para mejorar la experiencia de usuario.
 
-Etiquetas: Se van a poner etiquetas en todos los contenidos que pueden ser útiles para los inmigrantes forzados. En efecto, estas etiquetas permiten que el contenido esté relacionado con el buscador del sitio y los motores de búsqueda cuando los internautas quieren encontrar una información más fácilmente. 
+*Etiquetas:* Se van a poner etiquetas en todos los contenidos que pueden ser útiles para los inmigrantes forzados. En efecto, estas etiquetas permiten que el contenido esté relacionado con el buscador del sitio y los motores de búsqueda cuando los internautas quieren encontrar una información más fácilmente. 
 
 ## 4. Tablar de páginas
 
 Esta herramienta se va a utilizar con el objeto de organizar el contenido propuesto para el sitio web, de esta forma, se va a poder estructurar el contenido para cada página que va a tener el sitio web poniendo en común los criterios para los administradores de la misma. 
 
-1) Página principal del sitio web
+1) **Página principal del sitio web**
 
 “Página principal del sitio web Aupa”
 Objetivo de la página: Poner frente a los usuarios los distintos caminos que pueden tomar para cumplir con sus objetivos dentro del sitio web.
@@ -155,7 +161,7 @@ Propietario del contenido: El sitio web Aupa.
 
 IMAGEN 1
 
-2) Tabla para la página que ha de tener los artículos de las distintas pestañas.
+2) **Tabla para la página que ha de tener los artículos de las distintas pestañas**
 
 “Página de trámite”
 Objetivo de la página: Proveer información para orientar al inmigrante forzado a cumplir una necesidad de trámites.
@@ -164,7 +170,7 @@ Propietario del contenido: Autor del artículo, de Aupa.
 
 IMAGEN 2
 
-3) Tabla para la página interna del foro:
+3) **Tabla para la página interna del foro**
  
 “Página interna de foro”
 Objetivo de la página: Dar soporte como base de datos para consultar los temas tratados en el foro ó para introducir nuevas dudas, consultas e información pertinente para la comunidad.
@@ -173,7 +179,7 @@ Propietario del contenido: El sitio web Aupa.
 
 IMAGEN 3
 
-4) Página de resultados de búsqueda
+4) **Página de resultados de búsqueda**
 
 “Página resultados de búsqueda”
 Objetivo de la página: Devolver en la misma página los resultados que coincidan con la busqueda realizada sobre la “Lupa” en la página principal del sitio web.
@@ -182,7 +188,7 @@ Propietario del contenido: El sitio web Aupa.
 
 IMAGEN 4
 
-5) Pagina de contacto
+5) **Pagina de contacto**
 
 “Página de contacto con el sitio web Aupa”
 Objetivo de la página: Dar el soporte a los usuarios para ponerse en contacto con el staff del sitio web Aupa. 

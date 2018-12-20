@@ -75,8 +75,9 @@ De los distintos enfoques, el que va en sintonía con la estructura de contenido
 de tipo jerárquica. 
 Este enfoque nos muestra la apariencia del árbol, mientras los nodos principales (que en verdad son las mismas páginas) sirven de base para los nodos menores en una relación “padre/hijo”, lo importante es comprender que los niveles superiores deben guardar una estrecha relación con las necesidades del usuario.
 
-Podemos utilizar la forma de jerarquía que se llama anchas y superficiales, es cuando los usuarios pueden acceder a cada contenido pasando por una categoría. Por ejemplo, cada categoría tiene un contenido, si hay 10 contenidos, hara 10 categorías. Es la mejor opción, y para el sitio web es la forma más adecuada porque el público objetivo hablan muchas idiomas, es mejor para ellos de usar de un enfoque simple.
-Por ejemplo, en nuestra maqueta, podemos ver que en la pestaña “documento”, hay cinco categorías distintas, y necesita solo un clic para ir en cada categoría. El contenido será directamente en la pestaña, no hay otra pestaña en la categoría “Empadron” por ejemplo.
+Podemos utilizar la forma de jerarquía que se llama anchas y superficiales, es cuando los usuarios pueden acceder a cada contenido pasando por una categoría. Por ejemplo, cada categoría tiene un contenido, si hay 10 contenidos, habrá 10 categorías.
+
+En este ejemplo, podemos ver que en la pestaña “Documentos”, hay cinco temas distintos y que se necesita solo un clic para ir dentro de cada uno. El contenido va a estar directamente enlazado a cada tema. En caso de que más adelante, de uno de estos se desprendan dos o más subtemas, se va a desplegar una segunda columna a la derecha con la lista de subtemas y así sucesivamente.
 
 ![Ejemplo para Aupa](https://github.com/DeustoPWEB2018/proyectoweb-migraciones/blob/5345076350097ecea54e1abb462c109a77a82b31/3-estructura/estructura_ejemplo_aupa.png)
 *Fuente: elaboración propia*

@@ -43,11 +43,16 @@ En la primera, es la pagina que los usuarios podrán ver cuando van a hacer clic
 
   **Diseño de la interfaz**
 
-El diseño de interfaz va a ser el mismo para todos los artículos que se generan dentro de la pestaña 'Trámites', es decir, la estética será semejante. La forma de organizar el contenido va a ser el siguiente: un título, una introducción, el cuerpo del artículo donde se va abordar el asunto con más detalle utilizando imágenes, videos, mapas, entre otros recursos necesarios para cumplir el objetivo que persigue en sí mismo cada artículo y al final, los documentos o enlaces de las páginas oficiales.
- La calidad del diseño de interfaz estándar para cada artículo dentro va a ayuda al usuario en el proceso de familiarización con el sitio web.
+El diseño de interfaz va a ser el mismo para todos los artículos que se generan dentro de la pestaña 'Trámites', es decir, la estética será semejante. 
 
+
+Para que los usuarios entiendan y usen fácilmente el sitio web, se va a disponer la página de un artículo de forma estándar con una distribución de los elementos que respete el siguiente orden: barra de menú arriba, ruta de navegación debajo y más pequeño. Apenas debajo, en el centro, el título del artículo con una letra destacada, debajo la introducción, el cuerpo del artículo donde se va abordar el asunto con más detalle utilizando imágenes, videos, mapas, entre otros recursos necesarios para cumplir el objetivo que persigue en sí mismo cada artículo y al final, acceso a link útiles o fuentes utilizadas.
+
+
+ Para las etiquetas de los artículos, se va a utilizar indirectamente a los usuarios haciendo un análisis de los registros de búsqueda (google analytics y trends) para conocer qué palabras claves escriben los usuarios para encontrar contenido relacionado con el tema del artículo.
 
 A su vez se destacan dos atributos que deben cumplir:
+
 
  *Simplicidad:* La página debe entenderse fácilmente con un simple vistazo. Se debe contribuir en el diseño de la interfaz para que tanto los usuarios habituales como los nuevos puedan sentirse familiarizados con la misma, la distribución de los elementos y las acciones que se pueden hacer de forma rápida para llegar al contenido que están buscando de la forma mas practica posible.
 
@@ -75,11 +80,14 @@ Dentro del artículo o debajo en las referencias, el usuario va a poder hacer cl
  De igual manera, la pestaña sobre la cual se encuentra el usuario cambiara de color a un gris leve que se distinguirá del resto de la barra de menú. 
 
 
-  **Diseño de la información**
+   **Diseño de la información**
+
+Con este diseño el objetivo es que los usuarios entiendan fácilmente el sitio web, para ello, a continuación se va a disponer de algunos ejemplos que en parte son resultado del Card Sorting:
+
+Se define la pestaña con la palabra ‘Trámites’ en lugar de documentación o servicios.
+El icono de la ‘lupa’ para la búsqueda avanzada.
+En lugar de comunidad, se va a utilizar ‘Foro’.
 
 
- Para que los usuarios entiendan y usen fácilmente el sitio web, se va a ordenar la página de un artículo de forma estándar con una distribución de los elementos de información de la siguiente manera: barra de menú arriba, ruta de navegación debajo y más pequeño. Apenas debajo, en el centro el título del artículo con una letra destacada, debajo introducción, cuerpo del artículo, subtítulos, imagen/es y al final, acceso a link útiles o fuentes utilizadas.
-
-
- Para las etiquetas que de los artículos se va a utilizar indirectamente a los usuarios, haciendo un análisis de los registros de búsqueda (google analytics y trends) para conocer qué palabras claves escriben los usuarios para encontrar contenido relacionado con el tema del artículo.
+La idea es que el correcto abordaje de este diseño le permita al usuario encontrar concretamente lo que necesita y notar familiaridad con las palabras o símbolos utilizados para las acciones y cosas que ve y que esto le facilite a la hora de reaccionar intuitivamente para responder de forma correcta para cumplir los objetivos.
 
